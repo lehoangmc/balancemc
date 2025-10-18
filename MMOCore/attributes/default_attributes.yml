@@ -1,0 +1,33 @@
+
+# Attribute ID
+strength:
+    name: Sức Mạnh
+    max-points: 40
+    buff:
+        weapon_damage: 0.5
+        physical_damage: 0.5
+
+agility:
+    name: Nhanh Nhẹn
+    max-points: 40
+    buff:
+        dodge_rating: 0.3
+        ATTACK_SPEED: 0.5%
+
+vitality:
+    name: Thể Lực
+    max-points: 40
+    buff:
+        max_health: 0.025
+        health_regeneration: 0.00625
+        damage_reduction: 0.2
+        armor: 0.2
+
+energy:
+    name: Trí Lực
+    max-points: 40
+    buff:
+        SKILL_DAMAGE: 0.4
+        cooldown_reduction: 0.25
+        max_mana: 2
+        mana_regeneration: 0.2

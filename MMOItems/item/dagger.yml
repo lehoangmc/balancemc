@@ -1,0 +1,151 @@
+DAOCUN:
+  base:
+    material: STONE_SWORD
+    enchants:
+      unbreaking: 4.0
+    name: '&eDao cùn'
+    lore:
+    - '&7 Đồ dành cho người mới chơi'
+    - '&7 Tìm thấy tại &f/warp trade'
+    attack-damage: 7.5
+    pve-damage: 15.0
+    tier: TRASH
+DAOTHAITHIT:
+  base:
+    material: STONE_SWORD
+    enchants:
+      unbreaking: 5.0
+    name: '&eDao thái thịt'
+    lore:
+    - '&7 Đồ dành cho người mới chơi'
+    - '&7 Tìm thấy tại &f/warp trade'
+    attack-damage: 6.5
+    pvp-damage: 30.0
+    tier: TRASH
+DAODUNGNHAM:
+  base:
+    material: IRON_SWORD
+    enchants:
+      unbreaking: 5.0
+      fire-aspect: 3
+    name: <#fb8d31>&lD<#fba13a>&la<#fcb643>&lo <#fcca4b>&lD<#fddf54>&lu<#fdf35d>&ln<#fddf54>&lg
+      <#fcca4b>&lN<#fcb643>&lh<#fba13a>&la<#fb8d31>&lm
+    lore:
+    - '&7 Loại dao chế tác từ dung nham nóng chảy'
+    attack-damage: 15
+    tier: COMMON
+    critical-strike-chance: 35.0
+    critical-strike-power: 40.0
+DAODOATHON:
+  base:
+    material: NETHERITE_SWORD
+    unbreakable: true
+    name: <#3b7cfb>&lD<#4574f3>&la<#4f6cea>&lo <#5a64e2>&lĐ<#645cd9>&lo<#6e55d1>&lạ<#784dc8>&lt
+      <#8345c0>&lH<#8d3db7>&lồ<#9735af>&ln
+    attack-damage: 42
+    attack-speed: 3
+    tier: ELITE
+    critical-strike-chance: 30.0
+    critical-strike-power: 55.0
+    pvp-damage: 30.0
+    gem-sockets:
+    - Tấn Công
+HACMATAU1:
+  base:
+    material: NETHERITE_SWORD
+    unbreakable: true
+    name: <#547295>&lH<#59719c>&lắ<#5f71a2>&lc <#6470a9>&lM<#6a70af>&lã <#6f6fb6>&lT<#756fbc>&lấ<#7a6ec3>&lu
+      I
+    enchants:
+      unbreaking: 10.0
+    hide-enchants: true
+    attack-damage: 85
+    attack-speed: 3
+    tier: ELITE
+    critical-strike-chance: 30.0
+    critical-strike-power: 85.0
+    pvp-damage: 20.0
+    gem-sockets:
+    - Tấn Công
+HACMATAU2:
+  base:
+    material: NETHERITE_SWORD
+    unbreakable: true
+    name: <#547295>&lH<#59719c>&lắ<#5f71a2>&lc <#6470a9>&lM<#6a70af>&lã <#6f6fb6>&lT<#756fbc>&lấ<#7a6ec3>&lu
+      II
+    enchants:
+      unbreaking: 10.0
+    hide-enchants: true
+    attack-damage: 100
+    attack-speed: 4
+    tier: ULTIMATE
+    critical-strike-chance: 30.0
+    critical-strike-power: 100.0
+    pvp-damage: 35.0
+    ability:
+      ability1:
+        type: CURSED_BEAM
+        mode: RIGHT_CLICK
+        mana: 25.0
+        damage: 116.0
+        cooldown: 3.0
+        duration: 10.0
+    gem-sockets:
+    - Tấn Công
+HACMATAU3:
+  base:
+    material: NETHERITE_SWORD
+    unbreakable: true
+    name: <#547295>&lH<#59719c>&lắ<#5f71a2>&lc <#6470a9>&lM<#6a70af>&lã <#6f6fb6>&lT<#756fbc>&lấ<#7a6ec3>&lu
+      III
+    enchants:
+      unbreaking: 10.0
+    hide-enchants: true
+    attack-damage: 125
+    attack-speed: 4
+    tier: ULTIMATE
+    critical-strike-chance: 30.0
+    critical-strike-power: 125.0
+    pvp-damage: 35.0
+    ability:
+      ability1:
+        type: CURSED_BEAM
+        mode: RIGHT_CLICK
+        mana: 25.0
+        damage: 275.0
+        cooldown: 3.0
+        duration: 10.0
+    gem-sockets:
+    - Tấn Công
+HUYETVUCUONGDAO:
+  base:
+    material: NETHERITE_SWORD
+    unbreakable: true
+    name: <#fb4b4b>&lH<#fb4d50>&lu<#fb4f54>&ly<#fb5259>&lế<#fc545e>&lt <#fc5663>&lV<#fc5867>&lũ
+      <#fc5b6c>&lC<#fc5d71>&lu<#fc5f75>&lồ<#fc617a>&ln<#fd637f>&lg <#fd6684>&lĐ<#fd6888>&la<#fd6a8d>&lo
+    enchants:
+      unbreaking: 10.0
+    lore:
+    - '&7 ✦ Hiệu ứng thuốc &eSức mạnh II'
+    hide-enchants: true
+    attack-damage: 185
+    attack-speed: 4
+    tier: LEGENDARY
+    critical-strike-chance: 25.0
+    critical-strike-power: 195.0
+    gem-sockets:
+    - Tấn Công
+    - Tấn Công
+    lifesteal: 10.0
+    undead-damage: 30.0
+    two-handed: true
+    perm-effects:
+      INCREASE_DAMAGE: 2.0
+    ability:
+      ability1:
+        type: FURTIVE_STRIKE
+        damage: 240.0
+        mode: ATTACK
+        cooldown: 5.0
+        mana: 22.0
+        radius: 5.0

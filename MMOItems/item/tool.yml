@@ -1,0 +1,279 @@
+RIUTHOMOC1:
+  base:
+    material: DIAMOND_AXE
+    enchants:
+      efficiency: 5.0
+      unbreaking: 7.0
+    name: '&aRìu Thợ Mộc I'
+    lore:
+    - '&7 Đồ nghề dành cho người thích phá rừng'
+    tier: COMMON
+RIUTHOMOC2:
+  base:
+    material: DIAMOND_AXE
+    enchants:
+      efficiency: 7.0
+      unbreaking: 10.0
+    name: '&aRìu Thợ Mộc II'
+    lore:
+    - '&7 Đồ nghề dành cho người thích phá rừng'
+    tier: RARE
+RIUTHOMOC3:
+  base:
+    material: NETHERITE_AXE
+    enchants:
+      efficiency: 10.0
+    unbreakable: true
+    name: '<#fb986d>&lR<#f09266>&lì<#e68b60>&lu <#db8559>&lT<#d07f52>&lh<#c6794b>&lợ <#bb7245>&lM<#b16c3e>&lộ<#a66637>&lc <#9b6030>&lI<#91592a>&lI<#865323>&lI'
+    lore:
+    - '&7 Đồ nghề dành cho người thích phá rừng'
+    - ''
+    - '&f 『&eBẤT PHÁ&f』'
+    tier: ELITE
+XENGTHOXAY1:
+  base:
+    material: DIAMOND_SHOVEL
+    enchants:
+      efficiency: 5.0
+      unbreaking: 7.0
+    name: '&aXẻng Thợ Xây I'
+    lore:
+    - '&7 Đồ nghề dành cho builder'
+    tier: COMMON
+XENGTHOXAY2:
+  base:
+    material: DIAMOND_SHOVEL
+    enchants:
+      efficiency: 7.0
+      unbreaking: 10.0
+    name: '&aXẻng Thợ Xây II'
+    lore:
+    - '&7 Đồ nghề dành cho builder'
+    tier: RARE
+MAYXUCCAMTAY:
+  base:
+    material: NETHERITE_SHOVEL
+    enchants:
+      efficiency: 10.0
+    unbreakable: true
+    name: '<#90fba1>&lM<#88f09c>&lá<#80e696>&ly <#78db91>&lX<#70d08c>&lú<#68c686>&lc <#61bb81>&lC<#59b17b>&lầ<#51a676>&lm <#499b71>&lT<#41916b>&la<#398666>&ly'
+    lore:
+    - '&7 Đồ nghề dành cho builder'
+    - ''
+    - '&f 『&eBẤT PHÁ&f』'
+    tier: ELITE
+CUPKHOIDAU:
+  base:
+    material: IRON_PICKAXE
+    enchants:
+      efficiency: 3.0
+      unbreaking: 5.0
+    name: '&aCúp Khởi Đầu'
+    lore:
+    - '&7 Đồ dành cho newbie'
+    tier: TRASH
+CUPMAKC:
+  base:
+    material: DIAMOND_PICKAXE
+    enchants:
+      efficiency: 4.0
+      unbreaking: 6.0
+    name: '&fCúp mạ &bKim cương'
+    lore:
+    - '&7 Cúp cơ bản dành cho dân cày cuốc'
+    - '&7 Thuộc &fSet Cúp mạ'
+    - '&7 Tìm thấy tại &f/warp trade'
+    tier: COMMON
+CUPMALB:
+  base:
+    material: DIAMOND_PICKAXE
+    enchants:
+      efficiency: 5.0
+      unbreaking: 6.0
+    name: '&fCúp mạ &aLục Bảo'
+    lore:
+    - '&7 Cúp cơ bản dành cho dân cày cuốc'
+    - '&7 Thuộc &fSet Cúp mạ'
+    - '&7 Tìm thấy tại &f/warp trade'
+    tier: COMMON
+CUPMANTR1:
+  base:
+    material: NETHERITE_PICKAXE
+    enchants:
+      efficiency: 6.0
+      unbreaking: 8.0
+      fortune: 1.0
+    name: '&fCúp mạ &cNetherite I'
+    lore:
+    - '&7 Cúp cơ bản dành cho dân cày cuốc'
+    - '&7 Thuộc &fSet Cúp mạ'
+    - '&7 Tìm thấy tại &f/warp trade'
+    tier: RARE
+CUPMANTR2:
+  base:
+    material: NETHERITE_PICKAXE
+    enchants:
+      efficiency: 7.0
+      unbreaking: 10.0
+      fortune: 1.0
+    name: '&fCúp mạ &cNetherite II'
+    lore:
+    - '&7 Cúp cơ bản dành cho dân cày cuốc'
+    - '&7 Thuộc &fSet Cúp mạ'
+    - '&7 Tìm thấy tại &f/warp trade'
+    tier: ELITE
+CUPTINHTHACH1:
+  base:
+    material: NETHERITE_PICKAXE
+    enchants:
+      efficiency: 7.0
+      unbreaking: 8.0
+      fortune: 1.0
+    name: '&fCúp &7Tinh Thạch I'
+    lore:
+    - '&7 Cúp hợp kim tạo từ nhiều loại khoáng sản'
+    - '&7 Thuộc &fSet Cúp hợp kim'
+    - '&7 Tìm thấy tại &f/warp trade'
+    tier: ELITE
+CUPTINHTHACH2:
+  base:
+    material: NETHERITE_PICKAXE
+    enchants:
+      efficiency: 7.0
+      fortune: 2.0
+    unbreakable: true
+    name: '&fCúp &7Tinh Thạch II'
+    lore:
+    - '&7 Cúp hợp kim tạo từ nhiều loại khoáng sản'
+    - '&7 Thuộc &fSet Cúp hợp kim'
+    - '&7 Tìm thấy tại &f/warp trade'
+    - ''
+    - '&f 『&eBẤT PHÁ&f』'
+    tier: ELITE
+CUPDAIGIA1:
+  base:
+    material: NETHERITE_PICKAXE
+    enchants:
+      efficiency: 6.0
+    name: <#29fbaf>&lC<#2af3b8>&lú<#2bebc0>&lp <#2de4c9>&lĐ<#2edcd2>&lạ<#2fd4da>&li <#30cce3>&lG<#32c5ec>&li<#33bdf4>&la <#34b5fd>&lI
+    unbreakable: true
+    lore:
+    - '&7 Cúp dành cho dân cày đại gia'
+    - '&7 Tìm thấy tại &f/warp donate'
+    - ''
+    - '&f 『&eBẤT PHÁ&f』'
+    - '&f 『&bVẬT PHẨM DONATE&f』'
+    tier: ELITE
+CUPDAIGIA2:
+  base:
+    material: NETHERITE_PICKAXE
+    enchants:
+      efficiency: 8.0
+      fortune: 2.0
+    name: <#29fbaf>&lC<#2af4b7>&lú<#2bedbf>&lp <#2ce6c6>&lĐ<#2ddfce>&lạ<#2fd8d6>&li <#30d1de>&lG<#31cae6>&li<#32c3ed>&la <#33bcf5>&lI<#34b5fd>&lI
+    unbreakable: true
+    lore:
+    - '&7 Cúp dành cho dân cày đại gia'
+    - '&7 Tìm thấy tại &f/warp donate'
+    - ''
+    - '&f 『&eBẤT PHÁ&f』'
+    - '&f 『&bVẬT PHẨM DONATE&f』'
+    tier: ULTIMATE
+CUPDAIGIA3:
+  base:
+    material: NETHERITE_PICKAXE
+    enchants:
+      efficiency: 10.0
+      fortune: 3.0
+    name: <#29fbaf>&lC<#2af5b6>&lú<#2beebd>&lp <#2ce8c4>&lĐ<#2de2cb>&lạ<#2edbd2>&li <#2fd5da>&lG<#30cee1>&li<#31c8e8>&la <#32c2ef>&lI<#33bbf6>&lI<#34b5fd>&lI
+    unbreakable: true
+    lore:
+    - '&7 Cúp dành cho dân cày đại gia'
+    - '&7 Tìm thấy tại &f/warp donate'
+    - ''
+    - '&f 『&eBẤT PHÁ&f』'
+    - '&f 『&bVẬT PHẨM DONATE&f』'
+    tier: ULTIMATE
+CUPTHANTAI1:
+  base:
+    material: NETHERITE_PICKAXE
+    enchants:
+      efficiency: 5.0
+      fortune: 1.0
+    name: <#fbf445>&lC<#fbee48>&lú<#fbe74a>&lp <#fce14d>&lT<#fcda4f>&lh<#fcd452>&lầ<#fcce55>&ln <#fcc757>&lT<#fdc15a>&là<#fdba5c>&li <#fdb45f>&lI
+    unbreakable: true
+    lore:
+    - '&7 Cúp dành cho dân cày đại gia'
+    - '&7 Tìm thấy tại &f/warp donate'
+    - ''
+    - '&f 『&eBẤT PHÁ&f』'
+    - '&f 『&bVẬT PHẨM DONATE&f』'
+    tier: ELITE
+CUPTHANTAI2:
+  base:
+    material: NETHERITE_PICKAXE
+    enchants:
+      efficiency: 7.0
+      fortune: 3.0
+    name: <#fbf445>&lC<#fbee47>&lú<#fbe84a>&lp <#fce34c>&lT<#fcdd4e>&lh<#fcd751>&lầ<#fcd153>&ln <#fccb56>&lT<#fcc558>&là<#fdc05a>&li <#fdba5d>&lI<#fdb45f>&lI
+    unbreakable: true
+    lore:
+    - '&7 Cúp dành cho dân cày đại gia'
+    - '&7 Tìm thấy tại &f/warp donate'
+    - ''
+    - '&f 『&eBẤT PHÁ&f』'
+    - '&f 『&bVẬT PHẨM DONATE&f』'
+    tier: ULTIMATE
+CUPTHANTAI3:
+  base:
+    material: NETHERITE_PICKAXE
+    enchants:
+      efficiency: 9.0
+      fortune: 4.0
+    name: <#fbf445>&lC<#fbef47>&lú<#fbe949>&lp <#fce44c>&lT<#fcdf4e>&lh<#fcd950>&lầ<#fcd452>&ln <#fccf54>&lT<#fcc956>&là<#fdc459>&li <#fdbf5b>&lI<#fdb95d>&lI<#fdb45f>&lI
+    unbreakable: true
+    lore:
+    - '&7 Cúp dành cho dân cày đại gia'
+    - '&7 Tìm thấy tại &f/warp donate'
+    - ''
+    - '&f 『&eBẤT PHÁ&f』'
+    - '&f 『&bVẬT PHẨM DONATE&f』'
+    tier: ULTIMATE
+CUPNGUYENTO1:
+  base:
+    material: DIAMOND_PICKAXE
+    enchants:
+      efficiency: 5.0
+      silk_touch: 1
+      unbreaking: 8.0
+    name: '<#fb8e1d>&lC<#fcae2f>&lú<#fcce41>&lp <#efe750>&lN<#b9eb52>&lg<#82f055>&lu<#62e670>&ly<#57cfa3>&lê<#4db7d7>&ln <#69a4e4>&lT<#9292e4>&lố <#bb81e4>&lI'
+    lore:
+    - '&7 Thuộc &fSet Cúp Nguyên Tố'
+    - '&7 Tìm thấy tại &f/warp trade'
+    tier: ELITE
+CUPNGUYENTO2:
+  base:
+    material: NETHERITE_PICKAXE
+    enchants:
+      efficiency: 7.0
+      silk_touch: 1
+    name: '<#fb8e1d>&lC<#fcab2e>&lú<#fcc93e>&lp <#fde64f>&lN<#cbea51>&lg<#99ee54>&lu<#67f256>&ly<#5ddc85>&lê<#54c7b5>&ln <#4ab1e4>&lT<#70a1e4>&lố <#9591e4>&lI<#bb81e4>&lI'
+    lore:
+    - '&7 Thuộc &fSet Cúp Nguyên Tố'
+    - '&7 Tìm thấy tại &f/warp trade'
+    - ''
+    - '&f 『&eBẤT PHÁ&f』'
+    unbreakable: true
+    tier: ULTIMATE
+CUPHOALONG:
+  base:
+    material: NETHERITE_PICKAXE
+    enchants:
+      efficiency: 8.0
+      fortune: 2.0
+    name: <#fbad38>&lC<#fb9d4e>&lú<#fc8d65>&lp <#fc7e7b>&lH<#fd6e92>&lo<#f97094>&lả <#f18481>&lL<#e8996e>&lo<#e0ad5b>&ln<#d8c148>&lg
+    unbreakable: true
+    lore:
+    - ''
+    - '&f 『&eBẤT PHÁ&f』'
+    tier: ELITE

@@ -1,0 +1,128 @@
+NONGDAN:
+  name: '&aSet Nông Dân'
+  bonuses:
+    '4':
+      armor: 7
+      pve-damage-reduction: 5
+  lore-tag:
+   - '&f +7 &7Giáp'
+   - '&f +5% &7Giảm sát thương PVE'
+THOSAN:
+  name: '&eSet Thợ Săn'
+  bonuses:
+    '4':
+      defense: 15
+      pve-damage-reduction: 10
+  lore-tag:
+   - '&f +15 &7Phòng thủ'
+   - '&f +10% &7Giảm sát thương PVE'
+HIEPSI:
+  name: '&fSet Hiệp Sĩ'
+  bonuses:
+    '4':
+      defense: 15
+      pvp-damage-reduction: 10
+  lore-tag:
+   - '&f +15 &7Phòng thủ'
+   - '&f +10% &7Giảm sát thương PVP'
+THAOTHACH:
+  name: '&bSet Thảo Thạch'
+  bonuses:
+    '4':
+      defense: 24
+      pvp-damage-reduction: 7
+      pve-damage-reduction: 10
+  lore-tag:
+   - '&f +24 &7Phòng thủ'
+   - '&f +7% &7Giảm sát thương PVP'
+   - '&f +10% &7Giảm sát thương PVE'
+LIENHOACHIENGIAP:
+  name: '&dSet Liên Hoa Chiến Giáp'
+  bonuses:
+    '4':
+      defense: 40
+      max-health: 3
+  lore-tag:
+   - '&f +40 &7Phòng thủ'
+   - '&f +3 &7Máu'
+LIENHOATIENGIAP:
+  name: '&dSet Liên Hoa Tiên Giáp'
+  bonuses:
+    '4':
+      defense: 70
+      max-health: 5
+  lore-tag:
+   - '&f +70 &7Phòng thủ'
+   - '&f +5 &7Máu'
+DUNGNHAM:
+  name: '&cSet Dung Nham'
+  bonuses:
+    '4':
+      defense: 18
+      fire-damage-reduction: 40.0
+  lore-tag:
+   - '&f +18 &7Phòng thủ'
+   - '&f +40% &7Giảm sát thương Lửa'
+TACZAN:
+  name: '&dSet Taczan'
+  bonuses:
+    '4':
+      defense: 60
+      movement-speed: 0.04
+  lore-tag:
+   - '&f +60 &7Phòng thủ'
+   - '&f +4 &7Tốc độ'
+TUNGUYET:
+  name: '&dSet Tử Nguyệt'
+  bonuses:
+    '4':
+      defense: 82
+      max-health: 5
+      pvp-damage-reduction: 25
+  lore-tag:
+   - '&f +82 &7Phòng thủ'
+   - '&f +5 &7Máu'
+   - '&f +25% &7Giảm sát thương PVP'
+HOALONG:
+  name: '&6Set Hoả Long'
+  bonuses:
+    '4':
+      defense: 65
+      max-health: 1
+      potion-FAST_DIGGING: 1.0
+  lore-tag:
+   - '&f +65 &7Phòng thủ'
+   - '&f +1 &7Máu'
+   - '&f ✦&7 Hiệu ứng &eĐào Nhanh'
+BAVUONGCHIENGIAP:
+  name: '&eSet Bá Vương Chiến Giáp'
+  bonuses:
+    '4':
+      defense: 100
+      max-health: 6
+  lore-tag:
+   - '&f +100 &7Phòng thủ'
+   - '&f +6 &7Máu'
+HACLONGGIAP:
+  name: '&eSet Hắc Long'
+  bonuses:
+    '4':
+      defense: 80
+      max-health: 4
+      pve-damage-reduction: 10
+  lore-tag:
+   - '&f +80 &7Phòng thủ'
+   - '&f +4 &7Máu'
+   - '&f +10% &7Giảm sát thương PVE'
+# Đặt tên cho bộ item, ví dụ: các vũ khí có thể học kỹ năng
+UPGRADEABLE_WEAPONS:
+    # Không cần dòng name hay lore vì ta chỉ dùng nó để nhận diện
+    
+    # Liệt kê tất cả các ID của item được phép nâng cấp ở đây
+    items:
+    - 'KIEMKHOIDAU'
+    - 'KIEMHIEPSI'
+    - 'KIEMLIETDIEM1'
+    - 'KIEMLIETDIEM2'
+    # Thêm các ID vũ khí khác của bạn vào đây
+    bonuses: {}

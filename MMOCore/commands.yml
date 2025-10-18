@@ -1,0 +1,51 @@
+player:
+  main: player
+  aliases:
+  - tt
+  - thongtin
+  description: Displays player stats
+attributes:
+  main: attributes
+  aliases:
+  - nangdiem
+  - congdiem
+  description: Display and manage attributes
+waypoints:
+  main: waypoints
+  aliases:
+  - wp
+  description: Display discovered waypoints
+quests:
+  main: quests
+  aliases:
+  - q
+  - journal
+  description: Display available quests
+friends:
+  main: friends
+  aliases:
+  - f
+  description: Show online/offline friends
+party:
+  main: party
+  aliases: []
+  description: Invite players in a party to split exp
+guild:
+  main: guild
+  aliases: []
+  description: Show players in current guild
+withdraw:
+  main: withdraw
+  aliases:
+  - w
+  description: Withdraw money into coins and notes
+deposit:
+  main: deposit
+  aliases:
+  - d
+  description: Open the currency deposit menu
+pvp-mode:
+  main: pvpmode
+  aliases:
+  - pvp
+  description: Toggle on/off PVP mode.

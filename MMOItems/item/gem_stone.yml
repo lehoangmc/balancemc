@@ -1,0 +1,400 @@
+DACONGKICH_NHATPHAM:
+  base:
+    material: RED_GLAZED_TERRACOTTA
+    name: <#fb541f>&lĐ<#fb662b>&lá <#fc7938>&lC<#fc8b44>&lô<#fd9e51>&ln<#fca35c>&lg <#f99c67>&lK<#f79571>&lí<#f48d7c>&lc<#f28686>&lh &b&l❖ &f&lNhất Phẩm
+    lore: &id001
+    - '&7 Đá khảm có tác dụng gia tăng'
+    - '&f Sát thương&7 cho vũ khí'
+    - '&7 Dùng để khảm vào ô &eTấn Công'
+    - ''
+    disable-interaction: true
+    success-rate:
+      base: 70
+      spread: 0.05
+      max-spread: 0.14
+    attack-damage:
+      base: 10
+      spread: 0.1
+      max-spread: 0.3
+    gem-color: "Tấn Công"
+    tier: RARE
+DACONGKICH_NHIPHAM:
+  base:
+    material: RED_GLAZED_TERRACOTTA
+    name: <#fb541f>&lĐ<#fb662b>&lá <#fc7938>&lC<#fc8b44>&lô<#fd9e51>&ln<#fca35c>&lg <#f99c67>&lK<#f79571>&lí<#f48d7c>&lc<#f28686>&lh &b&l❖ &f&lNhị Phẩm
+    lore: *id001
+    disable-interaction: true
+    success-rate:
+      base: 60
+      spread: 0.05
+      max-spread: 0.16
+    attack-damage:
+      base: 20
+      spread: 0.1
+      max-spread: 0.3
+    gem-color: "Tấn Công"
+    tier: RARE
+DACONGKICH_TAMPHAM:
+  base:
+    material: RED_GLAZED_TERRACOTTA
+    name: <#fb541f>&lĐ<#fb662b>&lá <#fc7938>&lC<#fc8b44>&lô<#fd9e51>&ln<#fca35c>&lg <#f99c67>&lK<#f79571>&lí<#f48d7c>&lc<#f28686>&lh &b&l❖ &f&lTam Phẩm
+    lore: *id001
+    disable-interaction: true
+    success-rate:
+      base: 50
+      spread: 0.06
+      max-spread: 0.19
+    attack-damage:
+      base: 40
+      spread: 0.05
+      max-spread: 0.15
+    gem-color: "Tấn Công"
+    tier: ELITE
+DACONGKICH_TUPHAM:
+  base:
+    material: RED_GLAZED_TERRACOTTA
+    name: <#fb541f>&lĐ<#fb662b>&lá <#fc7938>&lC<#fc8b44>&lô<#fd9e51>&ln<#fca35c>&lg <#f99c67>&lK<#f79571>&lí<#f48d7c>&lc<#f28686>&lh &b&l❖ &f&lTứ Phẩm
+    lore: *id001
+    disable-interaction: true
+    success-rate:
+      base: 40
+      spread: 0.08
+      max-spread: 0.25
+    attack-damage:
+      base: 60
+      spread: 0.05
+      max-spread: 0.15
+    gem-color: "Tấn Công"
+    tier: ELITE
+DACONGKICH_NGUPHAM:
+  base:
+    material: RED_GLAZED_TERRACOTTA
+    name: <#fb541f>&lĐ<#fb662b>&lá <#fc7938>&lC<#fc8b44>&lô<#fd9e51>&ln<#fca35c>&lg <#f99c67>&lK<#f79571>&lí<#f48d7c>&lc<#f28686>&lh &b&l❖ &f&lNgũ Phẩm
+    lore: *id001
+    disable-interaction: true
+    success-rate:
+      base: 30
+      spread: 0.1
+      max-spread: 0.32
+    attack-damage:
+      base: 90
+      spread: 0.03
+      max-spread: 0.09
+    gem-color: "Tấn Công"
+    tier: ULTIMATE
+DACONGKICH_LUCPHAM:
+  base:
+    material: RED_GLAZED_TERRACOTTA
+    name: <#fb541f>&lĐ<#fb662b>&lá <#fc7938>&lC<#fc8b44>&lô<#fd9e51>&ln<#fca35c>&lg <#f99c67>&lK<#f79571>&lí<#f48d7c>&lc<#f28686>&lh &b&l❖ &f&lLục Phẩm
+    lore: *id001
+    disable-interaction: true
+    success-rate:
+      base: 20
+      spread: 0.18
+      max-spread: 0.5
+    attack-damage:
+      base: 120
+      spread: 0.02
+      max-spread: 0.06
+    gem-color: "Tấn Công"
+    tier: ULTIMATE
+DABAOKICH_NHATPHAM:
+  base:
+    material: PURPLE_GLAZED_TERRACOTTA
+    name: <#e481bd>&lĐ<#ea6ea4>&lá <#f15b8b>&lB<#f74771>&lạ<#fd3458>&lo <#fa476d>&lK<#f85b81>&lí<#f56e96>&lc<#f281aa>&lh &b&l❖ &f&lNhất Phẩm
+    lore: &id002
+    - '&7 Đá khảm có tác dụng gia tăng'
+    - '&f Sức mạnh Bạo kích&7 cho vũ khí'
+    - '&7 Dùng để khảm vào ô &eTấn Công'
+    - ''
+    disable-interaction: true
+    success-rate: 
+      base: 70
+      spread: 0.05
+      max-spread: 0.14
+    critical-strike-power:
+      base: 20
+      spread: 0.08
+      max-spread: 0.25
+    gem-color: "Tấn Công"
+    tier: RARE
+DABAOKICH_NHIPHAM:
+  base:
+    material: PURPLE_GLAZED_TERRACOTTA
+    name: <#e481bd>&lĐ<#ea6ea4>&lá <#f15b8b>&lB<#f74771>&lạ<#fd3458>&lo <#fa476d>&lK<#f85b81>&lí<#f56e96>&lc<#f281aa>&lh &b&l❖ &f&lNhị Phẩm
+    lore: *id002
+    disable-interaction: true
+    success-rate:
+      base: 60
+      spread: 0.05
+      max-spread: 0.16
+    critical-strike-power:
+      base: 40
+      spread: 0.07
+      max-spread: 0.2
+    gem-color: "Tấn Công"
+    tier: RARE
+DABAOKICH_TAMPHAM:
+  base:
+    material: PURPLE_GLAZED_TERRACOTTA
+    name: <#e481bd>&lĐ<#ea6ea4>&lá <#f15b8b>&lB<#f74771>&lạ<#fd3458>&lo <#fa476d>&lK<#f85b81>&lí<#f56e96>&lc<#f281aa>&lh &b&l❖ &f&lTam Phẩm
+    lore: *id002
+    disable-interaction: true
+    success-rate:
+      base: 50
+      spread: 0.06
+      max-spread: 0.19
+    critical-strike-power:
+      base: 70
+      spread: 0.04
+      max-spread: 0.12
+    gem-color: "Tấn Công"
+    tier: ELITE
+DABAOKICH_TUPHAM:
+  base:
+    material: PURPLE_GLAZED_TERRACOTTA
+    name: <#e481bd>&lĐ<#ea6ea4>&lá <#f15b8b>&lB<#f74771>&lạ<#fd3458>&lo <#fa476d>&lK<#f85b81>&lí<#f56e96>&lc<#f281aa>&lh &b&l❖ &f&lTứ Phẩm
+    lore: *id002
+    disable-interaction: true
+    success-rate:
+      base: 40
+      spread: 0.08
+      max-spread: 0.25
+    critical-strike-power:
+      base: 100
+      spread: 0.03
+      max-spread: 0.1
+    gem-color: "Tấn Công"
+    tier: ELITE
+DABAOKICH_NGUPHAM:
+  base:
+    material: PURPLE_GLAZED_TERRACOTTA
+    name: <#e481bd>&lĐ<#ea6ea4>&lá <#f15b8b>&lB<#f74771>&lạ<#fd3458>&lo <#fa476d>&lK<#f85b81>&lí<#f56e96>&lc<#f281aa>&lh &b&l❖ &f&lNgũ Phẩm
+    lore: *id002
+    disable-interaction: true
+    success-rate:
+      base: 30
+      spread: 0.1
+      max-spread: 0.32
+    critical-strike-power:
+      base: 150
+      spread: 0.025
+      max-spread: 0.07
+    gem-color: "Tấn Công"
+    tier: ULTIMATE
+DABAOKICH_LUCPHAM:
+  base:
+    material: PURPLE_GLAZED_TERRACOTTA
+    name: <#e481bd>&lĐ<#ea6ea4>&lá <#f15b8b>&lB<#f74771>&lạ<#fd3458>&lo <#fa476d>&lK<#f85b81>&lí<#f56e96>&lc<#f281aa>&lh &b&l❖ &f&lLục Phẩm
+    lore: *id002
+    disable-interaction: true
+    success-rate:
+      base: 20
+      spread: 0.18
+      max-spread: 0.5
+    critical-strike-power:
+      base: 200
+      spread: 0.016
+      max-spread: 0.05
+    gem-color: "Tấn Công"
+    tier: ULTIMATE
+DADONKICH_NHATPHAM:
+  base:
+    material: YELLOW_GLAZED_TERRACOTTA
+    name: <#e46a6a>&lĐ<#ea8071>&lá <#f19579>&lĐ<#f7ab80>&lộ<#fdc087>&ln <#faaf87>&lK<#f89d88>&lí<#f58c88>&lc<#f27a88>&lh &b&l❖ &f&lNhất Phẩm
+    lore: &id003
+    - '&7 Đá khảm có tác dụng gia tăng'
+    - '&f Sức mạnh Đánh lan&7 cho vũ khí'
+    - '&7 Dùng để khảm vào ô &eTấn Công'
+    - ''
+    disable-interaction: true
+    success-rate: 
+      base: 70
+      spread: 0.05
+      max-spread: 0.14
+    blunt-rating:
+      base: 20
+      spread: 0.08
+      max-spread: 0.25
+    gem-color: "Tấn Công"
+    tier: RARE
+DADONKICH_NHIPHAM:
+  base:
+    material: YELLOW_GLAZED_TERRACOTTA
+    name: <#e46a6a>&lĐ<#ea8071>&lá <#f19579>&lĐ<#f7ab80>&lộ<#fdc087>&ln <#faaf87>&lK<#f89d88>&lí<#f58c88>&lc<#f27a88>&lh &b&l❖ &f&lNhị Phẩm
+    lore: *id003
+    disable-interaction: true
+    success-rate:
+      base: 60
+      spread: 0.05
+      max-spread: 0.16
+    blunt-rating:
+      base: 40
+      spread: 0.07
+      max-spread: 0.2
+    gem-color: "Tấn Công"
+    tier: RARE
+DADONKICH_TAMPHAM:
+  base:
+    material: YELLOW_GLAZED_TERRACOTTA
+    name: <#e46a6a>&lĐ<#ea8071>&lá <#f19579>&lĐ<#f7ab80>&lộ<#fdc087>&ln <#faaf87>&lK<#f89d88>&lí<#f58c88>&lc<#f27a88>&lh &b&l❖ &f&lTam Phẩm
+    lore: *id003
+    disable-interaction: true
+    success-rate:
+      base: 50
+      spread: 0.06
+      max-spread: 0.19
+    blunt-rating:
+      base: 70
+      spread: 0.04
+      max-spread: 0.12
+    gem-color: "Tấn Công"
+    tier: ELITE
+DADONKICH_TUPHAM:
+  base:
+    material: YELLOW_GLAZED_TERRACOTTA
+    name: <#e46a6a>&lĐ<#ea8071>&lá <#f19579>&lĐ<#f7ab80>&lộ<#fdc087>&ln <#faaf87>&lK<#f89d88>&lí<#f58c88>&lc<#f27a88>&lh &b&l❖ &f&lTứ Phẩm
+    lore: *id003
+    disable-interaction: true
+    success-rate:
+      base: 40
+      spread: 0.08
+      max-spread: 0.25
+    blunt-rating:
+      base: 100
+      spread: 0.03
+      max-spread: 0.1
+    gem-color: "Tấn Công"
+    tier: ELITE
+DADONKICH_NGUPHAM:
+  base:
+    material: YELLOW_GLAZED_TERRACOTTA
+    name: <#e46a6a>&lĐ<#ea8071>&lá <#f19579>&lĐ<#f7ab80>&lộ<#fdc087>&ln <#faaf87>&lK<#f89d88>&lí<#f58c88>&lc<#f27a88>&lh &b&l❖ &f&lNgũ Phẩm
+    lore: *id003
+    disable-interaction: true
+    success-rate:
+      base: 30
+      spread: 0.1
+      max-spread: 0.32
+    blunt-rating:
+      base: 150
+      spread: 0.025
+      max-spread: 0.07
+    gem-color: "Tấn Công"
+    tier: ULTIMATE
+DADONKICH_LUCPHAM:
+  base:
+    material: YELLOW_GLAZED_TERRACOTTA
+    name: <#e46a6a>&lĐ<#ea8071>&lá <#f19579>&lĐ<#f7ab80>&lộ<#fdc087>&ln <#faaf87>&lK<#f89d88>&lí<#f58c88>&lc<#f27a88>&lh &b&l❖ &f&lLục Phẩm
+    lore: *id003
+    disable-interaction: true
+    success-rate:
+      base: 20
+      spread: 0.18
+      max-spread: 0.5
+    blunt-rating:
+      base: 200
+      spread: 0.016
+      max-spread: 0.05
+    gem-color: "Tấn Công"
+    tier: ULTIMATE
+DAPHONGVE_NHATPHAM:
+  base:
+    material: WHITE_GLAZED_TERRACOTTA
+    name: <#4874e4>&lĐ<#5782e1>&lá <#6690de>&lP<#759ddb>&lh<#84abd8>&lò<#79b6df>&ln<#6ec1e5>&lg <#63cbec>&lV<#58d6f2>&lệ &b&l❖ &f&lNhất Phẩm
+    lore: &id004
+    - '&7 Đá khảm có tác dụng gia cố chiến'
+    - '&7 giáp, tăng khả năng phòng thủ'
+    - '&7 Dùng để khảm vào ô &ePhòng Thủ'
+    - ''
+    disable-interaction: true
+    success-rate:
+      base: 70
+      spread: 0.05
+      max-spread: 0.14
+    defense:
+      base: 10
+      spread: 0.1
+      max-spread: 0.3
+    gem-color: "Phòng Thủ"
+    tier: RARE
+DAPHONGVE_NHIPHAM:
+  base:
+    material: WHITE_GLAZED_TERRACOTTA
+    name: <#4874e4>&lĐ<#5782e1>&lá <#6690de>&lP<#759ddb>&lh<#84abd8>&lò<#79b6df>&ln<#6ec1e5>&lg <#63cbec>&lV<#58d6f2>&lệ &b&l❖ &f&lNhị Phẩm
+    lore: *id004
+    disable-interaction: true
+    success-rate:
+      base: 60
+      spread: 0.05
+      max-spread: 0.16
+    defense:
+      base: 20
+      spread: 0.1
+      max-spread: 0.3
+    gem-color: "Phòng Thủ"
+    tier: RARE
+DAPHONGVE_TAMPHAM:
+  base:
+    material: WHITE_GLAZED_TERRACOTTA
+    name: <#4874e4>&lĐ<#5782e1>&lá <#6690de>&lP<#759ddb>&lh<#84abd8>&lò<#79b6df>&ln<#6ec1e5>&lg <#63cbec>&lV<#58d6f2>&lệ &b&l❖ &f&lTam Phẩm
+    lore: *id004
+    disable-interaction: true
+    success-rate:
+      base: 50
+      spread: 0.06
+      max-spread: 0.19
+    defense:
+      base: 40
+      spread: 0.05
+      max-spread: 0.15
+    gem-color: "Phòng Thủ"
+    tier: ELITE
+DAPHONGVE_TUPHAM:
+  base:
+    material: WHITE_GLAZED_TERRACOTTA
+    name: <#4874e4>&lĐ<#5782e1>&lá <#6690de>&lP<#759ddb>&lh<#84abd8>&lò<#79b6df>&ln<#6ec1e5>&lg <#63cbec>&lV<#58d6f2>&lệ &b&l❖ &f&lTứ Phẩm
+    lore: *id004
+    disable-interaction: true
+    success-rate:
+      base: 40
+      spread: 0.08
+      max-spread: 0.25
+    defense:
+      base: 60
+      spread: 0.05
+      max-spread: 0.15
+    gem-color: "Phòng Thủ"
+    tier: ELITE
+DAPHONGVE_NGUPHAM:
+  base:
+    material: WHITE_GLAZED_TERRACOTTA
+    name: <#4874e4>&lĐ<#5782e1>&lá <#6690de>&lP<#759ddb>&lh<#84abd8>&lò<#79b6df>&ln<#6ec1e5>&lg <#63cbec>&lV<#58d6f2>&lệ &b&l❖ &f&lNgũ Phẩm
+    lore: *id004
+    disable-interaction: true
+    success-rate:
+      base: 30
+      spread: 0.1
+      max-spread: 0.32
+    defense:
+      base: 90
+      spread: 0.03
+      max-spread: 0.09
+    gem-color: "Phòng Thủ"
+    tier: ULTIMATE
+DAPHONGVE_LUCPHAM:
+  base:
+    material: WHITE_GLAZED_TERRACOTTA
+    name: <#4874e4>&lĐ<#5782e1>&lá <#6690de>&lP<#759ddb>&lh<#84abd8>&lò<#79b6df>&ln<#6ec1e5>&lg <#63cbec>&lV<#58d6f2>&lệ &b&l❖ &f&lLục Phẩm
+    lore: *id004
+    disable-interaction: true
+    success-rate:
+      base: 20
+      spread: 0.18
+      max-spread: 0.5
+    defense:
+      base: 120
+      spread: 0.02
+      max-spread: 0.06
+    gem-color: "Phòng Thủ"
+    tier: ULTIMATE

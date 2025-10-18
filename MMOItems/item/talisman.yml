@@ -1,0 +1,26 @@
+THUNDER_BLESSING:
+  base:
+    material: BIRCH_SAPLING
+    disable-interaction: true
+    name: §bThunder's Blessing
+    attack-damage: 3.0
+    weapon-damage: 10.0
+    skill-damage: 50.0
+    tier: EPIC
+    perm-effects:
+      SPEED: 1.0
+    lore:
+    - §bThis talisman, when held in offhand,
+    - §ballows the user to greatly increase
+    - §bhis skill damage. §3It also gives Speed I.
+TRAIACQUY:
+  base:
+    material: APPLE
+    name: '&c&lTRÁI ÁC QUỶ'
+    tier: EPIC
+    attack-damage: 5.0
+    perm-effects:
+      SPEED: 2.0
+    lore:
+    - Nhận Tốc độ II
+    lifesteal: 50.0

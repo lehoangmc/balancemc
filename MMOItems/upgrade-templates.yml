@@ -1,0 +1,45 @@
+
+# Template ID, only used as reference. This is the
+# text you need to enter in the edition GUI in order
+# to setup item upgrading for a specific item.
+weapon-default:
+
+    # Every time the item is upgraded, its attack damage
+    # is increased by 3% (relative to the current value)
+    attack-damage: 3%
+    
+    # Every time it is upgraded, it gets +2% aboslute 
+    # critical strike chance (independant of current val.)
+    critical-strike-chance: 2
+    
+    pve-damage: 1%
+
+armor-template-example:
+    armor: 3%
+    armor-toughness: 2%
+    block-rating: 5%
+    dodge-rating: 5%
+    parry-rating: 5%
+test:
+    attack-damage: 3%
+ngoctancong:
+    attack-damage: 2%
+    critical-strike-chance: 1.5%
+    critical-strike-power: 1.2%
+ngocphongthu:
+    defense: 2%
+    max-health: 0.5%
+    damage-reduction: 1.2%
+# Mẫu này sẽ thêm kỹ năng Fireball và một dòng lore vào item
+ADD_FIREBALL_SKILL:
+    # SỬA LẠI THEO ĐÚNG WIKI: Dùng 'lore-to-add'
+    lore-to-add:
+    - '&7- Kỹ năng: &cQuả Cầu Lửa'
+
+    # SỬA LẠI THEO ĐÚNG WIKI: Dùng 'abilities-to-add'
+    abilities-to-add:
+        fireball:
+            type: FIREBALL
+            cooldown: 5
+            damage: 8
+            mana: 10

@@ -1,0 +1,266 @@
+KIEMKHOIDAU:
+  base:
+    material: STONE_SWORD
+    enchants:
+      unbreaking: 4
+    name: '&aKiếm Khởi Đầu'
+    lore:
+    - '&7Đồ dành cho newbie'
+    - '&7Seri: <random-id>'
+    attack-damage: 4.0
+    pve-damage: 5.0
+    tier: TRASH
+    add-random-id: true
+    unbreakable: true
+    hide-flags:
+    - ATTRIBUTES
+    - UNBREAKABLE
+KIEMHIEPSI:
+  base:
+    material: IRON_SWORD
+    enchants:
+      unbreaking: 5.0
+    name: '&fKiếm Hiệp sĩ'
+    lore:
+    - '&7 Đồ dành cho người mới chơi'
+    - '&7 Tìm thấy tại &f/warp trade'
+    attack-damage: 12.0
+    pvp-damage: 15.0
+    tier: COMMON
+    critical-strike-chance: 16.0
+    critical-strike-power: 50.0
+KIEMLIETDIEM1:
+  base:
+    material: DIAMOND_SWORD
+    enchants:
+      unbreaking: 6.0
+      fire-aspect: 3
+    name: <#fbc343>&lK<#fbba44>&li<#fbb046>&lế<#fca747>&lm <#fc9d48>&lL<#fc9449>&li<#fc8b4b>&lệ<#fc814c>&lt
+      <#fc784d>&lD<#fd6e4e>&li<#fd6550>&lễ<#fd5b51>&lm <#fd5252>&lI
+    lore:
+    - '&7Hợp thành từ nguyên tố &cLửa&7, có sức mạnh'
+    - '&7thiêu đốt mọi sinh vật'
+    attack-damage: 25.0
+    attack-speed: 2
+    pvp-damage: 10.0
+    tier: COMMON
+KIEMLIETDIEM2:
+  base:
+    material: DIAMOND_SWORD
+    enchants:
+      unbreaking: 8.0
+      fire-aspect: 5
+    name: <#fbc343>&lK<#fbba44>&li<#fbb245>&lế<#fba946>&lm <#fca048>&lL<#fc9849>&li<#fc8f4a>&lệ<#fc864b>&lt
+      <#fc7d4c>&lD<#fc754d>&li<#fd6c4f>&lễ<#fd6350>&lm <#fd5b51>&lI<#fd5252>&lI
+    lore:
+    - '&7Hợp thành từ nguyên tố &cLửa&7, có sức mạnh'
+    - '&7thiêu đốt mọi sinh vật'
+    attack-damage: 32.0
+    attack-speed: 3
+    pvp-damage: 10.0
+    tier: RARE
+    critical-strike-chance: 20.0
+    critical-strike-power: 40.0
+KIEMLIETDIEM3:
+  base:
+    material: NETHERITE_SWORD
+    enchants:
+      unbreaking: 10.0
+      fire-aspect: 7
+    name: <#fbc343>&lK<#fbbb44>&li<#fbb345>&lế<#fbab46>&lm <#fca347>&lL<#fc9b48>&li<#fc9349>&lệ<#fc8b4b>&lt
+      <#fc824c>&lD<#fc7a4d>&li<#fc724e>&lễ<#fd6a4f>&lm <#fd6250>&lI<#fd5a51>&lI<#fd5252>&lI
+    lore:
+    - '&7Hợp thành từ nguyên tố &cLửa&7, có sức mạnh'
+    - '&7thiêu đốt mọi sinh vật'
+    attack-damage: 45
+    attack-speed: 3
+    pvp-damage: 15.0
+    tier: ELITE
+    critical-strike-chance: 30.0
+    critical-strike-power: 45.0
+    ability:
+      ability1:
+        type: MAGMA_FISSURE
+        mode: RIGHT_CLICK
+        mana: 20.0
+        damage: 55.0
+        ignite: 8.0
+CUONGPHONGLIETDIEM:
+  base:
+    revision-id: 2
+    material: NETHERITE_SWORD
+    enchants:
+      fire-aspect: 10
+    name: <#fbc343>&lC<#fbbc44>&lu<#fbb645>&lồ<#fbaf46>&ln<#fba847>&lg <#fca247>&lP<#fc9b48>&lh<#fc9449>&lo<#fc8e4a>&ln<#fc874b>&lg
+      <#fc814c>&lL<#fc7a4d>&li<#fc734e>&lệ<#fd6d4e>&lt <#fd664f>&lD<#fd5f50>&li<#fd5951>&lễ<#fd5252>&lm
+    tier: ULTIMATE
+    attack-damage: 95
+    attack-speed: 4
+    pvp-damage: 25.0
+    critical-strike-chance: 30.0
+    critical-strike-power: 80.0
+    unbreakable: true
+    gem-sockets:
+    - Tấn Công
+    - Tấn Công
+    ability:
+      ability1:
+        type: FIRE_METEOR
+        mode: RIGHT_CLICK
+        mana: 26.0
+        damage: 125.0
+        knockback: 3
+        radius: 10
+HOALONGKIEM:
+  base:
+    revision-id: 3
+    tier: ELITE
+    material: NETHERITE_SWORD
+    name: <#fbad38>&lH<#fba04a>&lo<#fc945c>&lả <#fc876e>&lL<#fd7b80>&lo<#fd6e92>&ln<#f67f83>&lg
+      <#ee8f74>&lK<#e7a066>&li<#dfb057>&lế<#d8c148>&lm
+    lore:
+    - ''
+    - '&f 『&eBẤT PHÁ&f』'
+    enchants:
+      unbreaking: 10.0
+    hide-enchants: true
+    unbreakable: true
+    attack-damage: 68
+    attack-speed: 3
+    pve-damage: 45.0
+    critical-strike-chance: 25.0
+    critical-strike-power: 60.0
+    gem-sockets:
+    - Tấn Công
+    ability:
+      ability1:
+        type: FIRE_STORM
+        mode: RIGHT_CLICK
+        mana: 25.0
+        damage: 89.0
+        ignite: 10.0
+KIEMTUNGUYET:
+  base:
+    tier: ELITE
+    material: NETHERITE_SWORD
+    name: <#fb408e>&lK<#fb3e85>&li<#fc3c7c>&lế<#fc3b73>&lm <#fc396a>&lT<#fd3761>&lử
+      <#fd3559>&lN<#fe3350>&lg<#fe3147>&lu<#fe303e>&ly<#ff2e35>&lệ<#ff2c2c>&lt
+    lore:
+    - ''
+    - '&f 『&eBẤT PHÁ&f』'
+    enchants:
+      unbreaking: 10.0
+    hide-enchants: true
+    unbreakable: true
+    attack-damage: 72
+    attack-speed: 4
+    pvp-damage: 40.0
+    critical-strike-chance: 40.0
+    critical-strike-power: 75.0
+    gem-sockets:
+    - Tấn Công
+    ability:
+      ability1:
+        type: CIRCULAR_SLASH
+        mode: RIGHT_CLICK
+        mana: 20.0
+        damage: 105.0
+        radius: 5.0
+BAVUONGKIEM:
+  base:
+    tier: ULTIMATE
+    material: NETHERITE_SWORD
+    name: <#fda656>&lB<#fdae58>&lá <#fcb75b>&lV<#fcbf5d>&lư<#fbc860>&lơ<#fbd062>&ln<#fbc860>&lg
+      <#fcbf5d>&lK<#fcb75b>&li<#fdae58>&lế<#fda656>&lm
+    enchants:
+      unbreaking: 10.0
+    hide-enchants: true
+    unbreakable: true
+    attack-damage: 136
+    attack-speed: 2
+    pvp-damage: 40.0
+    critical-strike-chance: 30.0
+    critical-strike-power: 150.0
+    gem-sockets:
+    - Tấn Công
+    - Tấn Công
+    ability:
+      ability1:
+        type: LIGHT_DASH
+        mode: RIGHT_CLICK
+        damage: 248.0
+        cooldown: 5.0
+        length: 0.2
+        mana: 10.0
+    custom-nbt:
+    - seri 11234
+    - seri 21212
+KIEMHACLONG:
+  base:
+    tier: ULTIMATE
+    material: NETHERITE_SWORD
+    name: <#c32676>&lH<#bc2884>&lắ<#b62a91>&lc <#af2d9f>&lL<#a82fac>&lo<#a231ba>&ln<#9b33c7>&lg
+      <#9435d5>&lK<#8d38e2>&li<#873af0>&lế<#803cfd>&lm
+    lore:
+    - ''
+    - '&f 『&eBẤT PHÁ&f』'
+    enchants:
+      unbreaking: 10.0
+    hide-enchants: true
+    unbreakable: true
+    attack-damage: 97
+    attack-speed: 3
+    pvp-damage: 20.0
+    critical-strike-chance: 30.0
+    critical-strike-power: 100.0
+    gem-sockets:
+    - Tấn Công
+    - Tấn Công
+    ability:
+      ability1:
+        type: CIRCULAR_SLASH
+        mode: RIGHT_CLICK
+        mana: 20.0
+        damage: 162.0
+        radius: 4.0
+KIEMKHOIDAUVIP:
+  base:
+    material: STONE_SWORD
+    enchants:
+      unbreaking: 4.0
+    name: '&aKiếm Khởi Đầu'
+    lore:
+    - '&7 Đồ dành cho newbie'
+    attack-damage: 10000.0
+    pve-damage: 300.0
+    tier: LEGENDARY
+QUẦN:
+  base:
+    material: IRON_SWORD
+    additional-strength: 10.0
+    required-strength: 10.0
+    required-vitality: 10.0
+    additional-vitality: 10.0
+    required-agility: 10.0
+    additional-agility: 10.0
+    required-energy: 10.0
+    additional-energy: 10.0
+    max-health: 10.0
+    weapon-damage: 10.0
+    projectile-damage: 10.0
+    attack-damage: 10.0
+SOCKET_ADDER:
+  display_name: '&aĐá Khai Mở Socket'
+  material: EMERALD
+  lore:
+  - '&7Kéo và thả vào một trang bị để'
+  - '&7thêm một ô socket trống.'
+  - ''
+  - '&cChỉ có thể sử dụng trên các'
+  - '&ctrang bị có thể socket.'
+  consumable:
+    # Sử dụng item này sẽ thêm 1 socket vào item mục tiêu.
+    add-sockets: 1
+  # (Tùy chọn) Giới hạn chỉ có thể dùng trên vũ khí và giáp
+  item-restriction:
+  - 'type: SWORD,AXE,BOW,CROSSBOW,ARMOR'

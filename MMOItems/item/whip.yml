@@ -1,0 +1,60 @@
+ROIDIEN1:
+  base:
+    revision-id: 2
+    material: LEAD
+    unbreakable: true
+    unstackable: true
+    enchants:
+      unbreaking: 10.0
+    hide-enchants: true
+    name: '&e&lRoi Điện I'
+    attack-damage: 78
+    attack-speed: 3
+    tier: ELITE
+    critical-strike-chance: 10
+    critical-strike-power: 50
+    range: 5.0
+    gem-sockets:
+    - Tấn Công
+ROIDIEN2:
+  base:
+    revision-id: 2
+    material: LEAD
+    unbreakable: true
+    unstackable: true
+    enchants:
+      unbreaking: 10.0
+    hide-enchants: true
+    name: '&e&lRoi Điện II'
+    attack-damage: 95
+    attack-speed: 3
+    tier: ULTIMATE
+    critical-strike-chance: 20
+    critical-strike-power: 70
+    range: 7.0
+    gem-sockets:
+    - Tấn Công
+ROIDIEN3:
+  base:
+    revision-id: 2
+    material: LEAD
+    unbreakable: true
+    unstackable: true
+    enchants:
+      unbreaking: 10.0
+    hide-enchants: true
+    name: '&e&lRoi Điện III'
+    attack-damage: 116
+    attack-speed: 4
+    tier: ULTIMATE
+    critical-strike-chance: 20
+    critical-strike-power: 100
+    range: 10.0
+    gem-sockets:
+    - Tấn Công
+ROIDIENX:
+  base:
+    material: LEAD
+    attack-damage: 999.0
+    attack-speed: 100.0
+    range: 20.0

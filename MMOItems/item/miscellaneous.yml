@@ -1,0 +1,27 @@
+KHONGTRADE:
+  base:
+    material: BARRIER
+    name: '&c&lKHÔNG TRADE'
+    lore:
+    - '&e&lVật phẩm trưng bày, không hỗ trợ trade!'
+    - '&f&lCó thể tìm thấy vật phẩm tại:'
+    - '&f&l- /warp crate'
+    - '&f&l- Sự kiện'
+    - '&f&l- Phó bản'
+FIREBALL_BOOK:
+    # DÒNG NÀY LÀ BẮT BUỘC VÀ QUAN TRỌNG NHẤT
+    # Nó cho MMOItems biết item này là một cuốn sách (BOOK).
+    material: BOOK
+    
+    # Các thông tin khác phải nằm dưới và thụt vào so với dòng FIREBALL_BOOK
+    display: '&a&lSách Kỹ Năng: Quả Cầu Lửa'
+    lore:
+    - '&7Một cuốn sách cổ chứa đựng'
+    - '&7sức mạnh của lửa.'
+    - ''
+    - '&eKéo thả vào Bàn Nâng Cấp'
+    - '&ecùng với vũ khí để học kỹ năng.'
+    item-flags:
+    - HIDE_ENCHANTS
+    enchants:
+      unbreaking: 1

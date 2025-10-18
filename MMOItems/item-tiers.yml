@@ -1,0 +1,50 @@
+# 'name' is used to display the tier in the item lore.
+#
+# 'deconstruct-item' is the drop table for the item
+# that drops when deconstructing an item.
+#
+# Tier IDs (TRASH,COMMON...) are case sensitive.
+
+TRASH:
+    name: '&8Phế'
+    unidentification:
+        range: 6
+        name: 'Phế'
+        prefix: '&8'
+COMMON:
+    name: '&aThường'
+    parent: TRASH
+    unidentification:
+        range: 6
+        name: 'Thường'
+        prefix: '&a'
+RARE:
+    name: '&6Hiếm'
+    unidentification:
+        name: 'Hiếm'
+        range: 6
+        prefix: '&6'
+ELITE:
+    name: '&5Tinh Tuý'
+    unidentification:
+        name: 'Tinh Tuý'
+        prefix: '&5'
+        range: 6
+ULTIMATE:
+    name: '&dTối Thượng'
+    unidentification:
+        name: 'Tối Thượng'
+        prefix: '&d'
+        range: 6
+LEGENDARY:
+    name: '&cHuyền Thoại'
+    unidentification:
+        name: 'Huyền Thoại'
+        prefix: '&c'
+        range: 6
+MYTHICAL:
+    name: '&0Truyền Thuyết'
+    unidentification:
+        name: 'Truyền Thuyết'
+        prefix: '&0'
+        range: 6

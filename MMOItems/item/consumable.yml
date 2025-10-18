@@ -1,0 +1,108 @@
+ROCK:
+  base:
+    material: COBBLESTONE
+    name: '&fĐá'
+    lore:
+    - '&7Có thể dùng để ném xD'
+    tier: TRASH
+    item-cooldown: 3
+    repair: 3.0
+    ability:
+      right-click:
+        type: ITEM_THROW
+        mode: RIGHT_CLICK
+        damage: 2.0
+        cooldown: 3
+LARGE_HEALTH_POTION:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTFlN2ViMmU0NjFlOTZlNjMxY2JhMGMwY2RhYTU0NDg4MDYzMDJlZGFlOTFiNjFkYWZjMjgxYWU1ODRkOCJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&fBình máu'
+    item-cooldown: 10.0
+    sounds:
+      on-consume: entity.generic.drink
+    restore-health: 10.0
+LARGE_MANA_POTION:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2FmNmRjNjdjZTc1YjcyMjJhYzM5ZTA1MzZlMDkwNzI0OWY4NTUxNmVmZDEzODViZWM5MGJlMzNkZDUzZGUwNyJ9fX0=
+      uuid: 0b4b6108-eb50-4a35-ae8b-53d5c2ad2a84
+    name: '&fBình mana'
+    restore-mana:
+      base: 35.0
+      spread: 0.042
+      max-spread: 0.13
+    item-cooldown: 15.0
+    sounds:
+      on-consume: entity.generic.drink
+BURGER:
+  base:
+    material: PLAYER_HEAD
+    item-cooldown: 3.0
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTUwMzkxYjEzODNkOWVmOWU2ZTdiZjVmODJkMWNmODgyZDgxZTJiMDA0ZGUzNjlmNzI5ZWRhMDRiMmVhNjNkMyJ9fX0=
+      uuid: 076dd3bf-0d76-497b-9745-40ed9402a311
+    restore-stamina: 30.0
+    name: '&fBánh Burger'
+    lore:
+    - '&7Giúp hồi phục sức khoẻ'
+    restore-health: 4.0
+    restore-food: 10.0
+    restore-saturation: 9.0
+SUSHI_ROLL:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmVlYzc2NDBlNDMyNDBjODE2N2IxNjc3ZWFiZmZhYWQ5ZjYyODA2Y2NiZTI2NzMyNGM5N2NlYjcyOWQzMDNhIn19fQ==
+      uuid: b7c55ea2-d4cc-467e-85c7-dd8052c1675b
+    name: '&fCuộn sushi'
+    lore:
+    - '&7Giúp hồi phục sức khoẻ'
+    item-cooldown: 0.5
+    effects:
+      SPEED:
+        duration:
+          base: 10
+          scale: 10
+        amplifier: 1
+    restore-health: 1
+MANGO:
+  base:
+    material: PLAYER_HEAD
+    name: '&fXoài'
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTk1MzM4OGNjZDZmZjY0ZmMxOTUwZGQ0Y2VjNGFkZWFhMzQ4YWFhYmNjNTMyODI4ZTcxNDRmNTA5ZjIzYyJ9fX0=
+      uuid: 1c6aa7d0-582e-4111-8376-74a2a2f74a58
+    tier: COMMON
+    lore:
+    - '&7Giúp hồi phục sức khoẻ'
+    effects:
+      REGENERATION:
+        duration: 20
+        amplifier: 1
+    vanilla-eating: false
+    restore-food: 8
+    restore-saturation: 10
+KIMGODA1:
+  base:
+    material: SHEARS
+    lore:
+    - '&7Gỡ 1 đá khảm bất kỳ ra khỏi vật phẩm'
+    - '&7Tiêu hao 1 kìm gỡ khi thành công'
+    name: '&eKìm gỡ đá khảm &aSơ Cấp'
+    disable-interaction: true
+    random-unsocket: 1.0
+    inedible: false
+KIMGODA2:
+  base:
+    material: SHEARS
+    lore:
+    - '&7Gỡ 3 đá khảm bất kỳ ra khỏi vật phẩm'
+    - '&7Tiêu hao 1 kìm gỡ khi thành công'
+    name: '&eKìm gỡ đá khảm &cCao Cấp'
+    disable-interaction: true
+    random-unsocket: 3.0
+    inedible: false

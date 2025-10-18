@@ -1,0 +1,27 @@
+RIUMAVUONG:
+  base:
+    tier: ULTIMATE
+    material: NETHERITE_AXE
+    name: <#fb5079>&l❇ <#fb517e>&lR<#fc5382>&lì<#fc5487>&lu <#fc558b>&lM<#fd5690>&la
+      <#fd5894>&lV<#fe5999>&lư<#fe5a9d>&lơ<#fe5ba2>&ln<#ff5da6>&lg <#ff5eab>&l❇
+    enchants:
+      unbreaking: 10.0
+    hide-enchants: true
+    unbreakable: true
+    attack-damage: 120
+    pve-damage: 30.0
+    critical-strike-chance: 15.0
+    critical-strike-power: 136.0
+    gem-sockets:
+    - Tấn Công
+    - Tấn Công
+    ability:
+      ability1:
+        type: Lightning_Beam
+        mode: RIGHT_CLICK
+        mana: 25.0
+        damage: 240.0
+        cooldown: 10.0
+        radius: 5
+    undead-damage: 69.0
+    movement-speed: -0.03

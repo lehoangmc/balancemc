@@ -1,0 +1,495 @@
+DONGXU:
+  base:
+    material: SUNFLOWER
+    enchants:
+      unbreaking: 1.0
+    hide-enchants: true
+    disable-crafting: true
+    disable-smelting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+    disable-interaction: true
+    name: '&e✿ Đồng Xu ✿'
+    lore:
+    - '&7 Nguyên liệu dùng để trade vật phẩm'
+    - '&7 Giá trị tương đương &f10.000đ'
+    - '&7 Mua tại &f/cshop'
+    - ''
+    - '&f 『&bVẬT PHẨM DONATE&f』'
+    - '&f Giữ gìn cẩn thận. Tránh làm mất đồ!'
+    tier: ELITE
+LINHCHAU:
+  base:
+    material: HEART_OF_THE_SEA
+    enchants:
+      unbreaking: 1.0
+    hide-enchants: true
+    disable-crafting: true
+    disable-smelting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+    disable-interaction: true
+    name: '&b✿ Linh Châu ✿'
+    lore:
+    - '&7 Nguyên liệu dùng để trade vật phẩm'
+    - '&7 Giá trị tương đương &f50.000đ'
+    - '&7 Mua tại &f/cshop'
+    - ''
+    - '&f 『&bVẬT PHẨM DONATE&f』'
+    - '&f Giữ gìn cẩn thận. Tránh làm mất đồ!'
+    tier: ELITE
+THANTINHLUYEN:
+  base:
+    material: COAL
+    enchants:
+      unbreaking: 1.0
+    disable-interaction: true
+    disable-crafting: true
+    disable-smelting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+    hide-enchants: true
+    name: '&8Than Tinh Luyện'
+    lore: &id001
+    - '&7 Vật liệu tạo ra từ khoáng sản'
+    - '&7 Nguyên liệu dùng để trade vật phẩm'
+    tier: COMMON
+SATTINHLUYEN:
+  base:
+    material: IRON_INGOT
+    enchants:
+      unbreaking: 1.0
+    disable-interaction: true
+    disable-crafting: true
+    disable-smelting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+    hide-enchants: true
+    name: '&fSắt Tinh Luyện'
+    lore: *id001
+    tier: COMMON
+TINHTHEBAC:
+  base:
+    material: IRON_NUGGET
+    enchants:
+      unbreaking: 1.0
+    disable-interaction: true
+    disable-crafting: true
+    disable-smelting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+    hide-enchants: true
+    name: '&fTinh Thể Bạc'
+    lore: *id001
+    tier: RARE
+VANGTINHLUYEN:
+  base:
+    material: GOLD_INGOT
+    enchants:
+      unbreaking: 1.0
+    disable-interaction: true
+    disable-crafting: true
+    disable-smelting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+    hide-enchants: true
+    name: '&eVàng Tinh Luyện'
+    lore: *id001
+    tier: COMMON
+KCTINHLUYEN:
+  base:
+    material: DIAMOND
+    enchants:
+      unbreaking: 1.0
+    disable-interaction: true
+    disable-crafting: true
+    disable-smelting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+    hide-enchants: true
+    name: '&bKim Cương Tinh Luyện'
+    lore: *id001
+    tier: RARE
+LBTINHLUYEN:
+  base:
+    material: EMERALD
+    enchants:
+      unbreaking: 1.0
+    disable-interaction: true
+    disable-crafting: true
+    disable-smelting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+    hide-enchants: true
+    name: '&aLục Bảo Tinh Luyện'
+    lore: *id001
+    tier: RARE
+NTRTINHLUYEN:
+  base:
+    material: NETHERITE_INGOT
+    enchants:
+      unbreaking: 1.0
+    disable-interaction: true
+    disable-crafting: true
+    disable-smelting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+    hide-enchants: true
+    name: '&cNetherite Tinh Luyện'
+    lore: *id001
+    tier: ELITE
+TINHTHACH:
+  base:
+    material: PRISMARINE_SHARD
+    enchants:
+      unbreaking: 1.0
+    disable-interaction: true
+    disable-crafting: true
+    disable-smelting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+    hide-enchants: true
+    name: '&bTinh Thạch'
+    lore: *id001
+    tier: ELITE
+RAUCUSAY:
+  base:
+    material: GREEN_DYE
+    disable-interaction: true
+    disable-crafting: true
+    disable-smelting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+    name: '&aRau củ sấy'
+    lore: &id002
+    - '&7 Sản phẩm chế biến từ nông sản'
+    - '&7 Nguyên liệu dùng để trade vật phẩm'
+    tier: COMMON
+BOTMI:
+  base:
+    material: WHITE_DYE
+    disable-interaction: true
+    disable-crafting: true
+    disable-smelting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+    name: '&fBột Mì'
+    lore: *id002
+    tier: COMMON
+BOTBINGO:
+  base:
+    material: ORANGE_DYE
+    disable-interaction: true
+    disable-crafting: true
+    disable-smelting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+    name: '&eBột Bí Ngô'
+    lore: *id002
+    tier: COMMON
+MUTDUA:
+  base:
+    material: MELON_SLICE
+    disable-interaction: true
+    disable-crafting: true
+    disable-smelting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+    name: '&cMứt dưa'
+    lore: *id002
+    tier: COMMON
+DUIDATHU:
+  base:
+    material: RABBIT
+    disable-interaction: true
+    disable-crafting: true
+    disable-smelting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+    name: '&eĐùi dã thú'
+    lore: &id003
+    - '&7 Sản phẩm chế biến từ quái'
+    - '&7 Nguyên liệu dùng để trade vật phẩm'
+    tier: COMMON
+THACHTIN:
+  base:
+    material: GUNPOWDER
+    disable-interaction: true
+    disable-crafting: true
+    disable-smelting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+    name: '&5Thạch tín'
+    lore: *id003
+    tier: COMMON
+TALUANNHAN:
+  base:
+    material: SPIDER_EYE
+    disable-interaction: true
+    disable-crafting: true
+    disable-smelting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+    name: '&4Tả Luân Nhãn'
+    lore: *id003
+    tier: COMMON
+THAOTHACHVIEN:
+  base:
+    material: LIME_GLAZED_TERRACOTTA
+    disable-interaction: true
+    disable-crafting: true
+    disable-smelting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+    name: '<#30fb64>&lT<#3efb7d>&lh<#4dfc96>&lả<#5bfcaf>&lo <#69fcc8>&lT<#78fde1>&lh<#86fdfa>&lạ<#9afdda>&lc<#aefdba>&lh <#c3fe9b>&lV<#d7fe7b>&li<#ebfe5b>&lê<#fffe3b>&ln'
+    lore: 
+    - '&7 Hợp chất kết tinh từ nhiều loại nguyên liệu'
+    - '&7 quí, dùng để trade vật phẩm'
+    tier: COMMON
+LIENHOA:
+  base:
+    material: BRAIN_CORAL
+    disable-interaction: true
+    disable-crafting: true
+    disable-smelting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+    name: '<#fb6b9a>&lL<#f474ab>&li<#ed7dbb>&lê<#e786cc>&ln <#e08fdc>&lH<#d998ed>&lo<#d2a1fd>&la'
+    lore: 
+    - '&7 Cánh sen hái từ dưới hạ giới, có giá'
+    - '&7 trị quí hiếm. Dùng để trade vật phẩm.'
+    tier: RARE
+DAHOASINH:
+  base:
+    material: MAGMA_BLOCK
+    disable-interaction: true
+    disable-crafting: true
+    disable-smelting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+    name: '<#fb8d31>&lĐ<#fca73c>&lá <#fcc047>&lH<#fdda52>&lo<#fdf35d>&lả <#fdda52>&lS<#fcc047>&li<#fca73c>&ln<#fb8d31>&lh'
+    lore: 
+    - '&7 Hình thành dưới dòng dung nham, ẩn'
+    - '&7 đựng sức mạnh thiêu đốt.'
+    tier: COMMON
+COTHIENDIEP:
+  base:
+    material: WARPED_ROOTS
+    disable-interaction: true
+    disable-crafting: true
+    disable-smelting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+    name: '<#8dfb95>&lC<#9cfba9>&lỏ <#acfcbd>&lT<#bbfcd0>&lh<#cbfde4>&li<#dafdf8>&lê<#c8fcf9>&ln <#b6fbfa>&lD<#a5fbfb>&li<#93fafc>&lệ<#81f9fd>&lp'
+    lore: 
+    - '&7 Loại cỏ dại hái từ dưới hạ giới, có giá'
+    - '&7 trị quí hiếm. Dùng để trade vật phẩm.'
+    tier: RARE
+TRAITIMRUNGXANH:
+  base:
+    material: SCUTE
+    disable-interaction: true
+    disable-crafting: true
+    disable-smelting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+    name: <#1b8113>&lT<#22881a>&lr<#2a8f22>&lá<#319629>&li <#389c30>&lT<#3fa337>&li<#47aa3f>&lm <#4eb146>&lR<#47aa3f>&lừ<#3fa337>&ln<#389c30>&lg <#319629>&lX<#2a8f22>&la<#22881a>&ln<#1b8113>&lh
+    lore: 
+    - '&7 Trái Tim Rừng Xanh - vật phẩm quý hiếm'
+    - '&7 nhất tìm thấy tại rừng rậm Hạ Giới.'
+    - '&7 Tìm thấy tại: &fPhó bản Rừng Già'
+    tier: ELITE
+DICHMACHU:
+  base:
+    material: GHAST_TEAR
+    disable-interaction: true
+    disable-crafting: true
+    disable-smelting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+    name: <#ba4ffb>&lD<#bc5bfb>&lị<#bd67fc>&lc<#bf72fc>&lh <#c17efc>&lM<#c28afc>&la <#c496fd>&lc<#c5a1fd>&lh<#c7adfd>&lu
+    lore: 
+    - '&7 Dịch cực độc tiết ra từ xác của Ma chu.'
+    - '&7 Tìm thấy tại: &fPhó bản Huyệt Ma chu'
+    tier: ELITE
+HOALONGCAU:
+  base:
+    material: FIRE_CHARGE
+    disable-interaction: true
+    disable-crafting: true
+    disable-smelting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+    name: <#fbad38>&lH<#fb9f4c>&lo<#fc9160>&lả <#fc8374>&lL<#fd7588>&lo<#f9778a>&ln<#f18a79>&lg <#e89c69>&lC<#e0af58>&lầ<#d8c148>&lu
+    lore:
+    - '&7 Cầu lửa giam giữ sức mạnh Hoả Long.'
+    - '&7 Tìm thấy tại: &fPhó bản Động Khoáng Thạch'
+    tier: ELITE
+LUONGKHO:
+  base:
+    material: BREAD
+    disable-interaction: true
+    disable-crafting: true
+    disable-smelting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+    name: '&6&lLương Khô'
+    lore: *id002
+    tier: ELITE
+XUCXICH:
+  base:
+    material: RABBIT_FOOT
+    disable-interaction: true
+    disable-crafting: true
+    disable-smelting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+    name: '<#e77c2f>&lXúc Xích'
+    lore:
+    - '&7 To, dài và rất ngon'
+    - '&7 Nguyên liệu dùng để trade vật phẩm'
+    tier: ELITE
+THUOCLAC:
+  base:
+    material: DRAGON_BREATH
+    disable-interaction: true
+    disable-crafting: true
+    disable-smelting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+    name: '&d&lThuốc Lắc'
+    lore:
+    - '&7 Giúp tăng sức mạnh trong nháy mắt'
+    - '&7 Tìm thấy tại: &fPhó bản Mini Nhà tù'
+    tier: ELITE
+LONGVUHACDIEU:
+  base:
+    material: FEATHER
+    disable-interaction: true
+    disable-crafting: true
+    disable-smelting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+    name: <#ADF3FD>&lLông Vũ &7&lHắc Điểu
+    lore:
+    - '&7 Cọng lông rớt ra từ chim Hắc Điểu'
+    - '&7 Tìm thấy tại: &fPhó bản Làng Cổ'
+    tier: ULTIMATE
+MANHGHEP-HUYETVUCUONGDAO:
+  base:
+    material: NETHERITE_SCRAP
+    disable-interaction: true
+    disable-crafting: true
+    disable-smelting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+    name: "&f&lMảnh ghép <#fb4b4b>&lH<#fb4d50>&lu<#fb4f54>&ly<#fb5259>&lế<#fc545e>&lt <#fc5663>&lV<#fc5867>&lũ
+      <#fc5b6c>&lC<#fc5d71>&lu<#fc5f75>&lồ<#fc617a>&ln<#fd637f>&lg <#fd6684>&lĐ<#fd6888>&la<#fd6a8d>&lo"
+    lore:
+    - '&7 Mảnh ghép chế tạo <#fb4b4b>&lH<#fb4d50>&lu<#fb4f54>&ly<#fb5259>&lế<#fc545e>&lt <#fc5663>&lV<#fc5867>&lũ
+      <#fc5b6c>&lC<#fc5d71>&lu<#fc5f75>&lồ<#fc617a>&ln<#fd637f>&lg <#fd6684>&lĐ<#fd6888>&la<#fd6a8d>&lo'
+    - '&7 Dùng để trao đổi tại &f/warp trade'
+    tier: LEGENDARY
+MANHGHEP-CUONGPHONGLIETDIEM:
+  base:
+    material: NETHERITE_SCRAP
+    disable-interaction: true
+    disable-crafting: true
+    disable-smelting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+    name: "&f&lMảnh ghép <#fbc343>&lC<#fbbc44>&lu<#fbb645>&lồ<#fbaf46>&ln<#fba847>&lg <#fca247>&lP<#fc9b48>&lh<#fc9449>&lo<#fc8e4a>&ln<#fc874b>&lg <#fc814c>&lL<#fc7a4d>&li<#fc734e>&lệ<#fd6d4e>&lt <#fd664f>&lD<#fd5f50>&li<#fd5951>&lễ<#fd5252>&lm"
+    lore:
+    - '&7 Mảnh ghép chế tạo <#fbc343>&lC<#fbbc44>&lu<#fbb645>&lồ<#fbaf46>&ln<#fba847>&lg <#fca247>&lP<#fc9b48>&lh<#fc9449>&lo<#fc8e4a>&ln<#fc874b>&lg <#fc814c>&lL<#fc7a4d>&li<#fc734e>&lệ<#fd6d4e>&lt <#fd664f>&lD<#fd5f50>&li<#fd5951>&lễ<#fd5252>&lm'
+    - '&7 Dùng để trao đổi tại &f/warp trade'
+    tier: ULTIMATE
+MANHGHEP-RIUMAVUONG:
+  base:
+    material: NETHERITE_SCRAP
+    disable-interaction: true
+    disable-crafting: true
+    disable-smelting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+    name: "&f&lMảnh ghép <#fb5079>&l❇ <#fb517e>&lR<#fc5382>&lì<#fc5487>&lu <#fc558b>&lM<#fd5690>&la
+      <#fd5894>&lV<#fe5999>&lư<#fe5a9d>&lơ<#fe5ba2>&ln<#ff5da6>&lg <#ff5eab>&l❇"
+    lore:
+    - '&7 Mảnh ghép chế tạo <#fb5079>&l❇ <#fb517e>&lR<#fc5382>&lì<#fc5487>&lu <#fc558b>&lM<#fd5690>&la
+      <#fd5894>&lV<#fe5999>&lư<#fe5a9d>&lơ<#fe5ba2>&ln<#ff5da6>&lg <#ff5eab>&l❇'
+    - '&7 Dùng để trao đổi tại &f/warp halloween'
+    tier: ULTIMATE
+THITAMBINH:
+  base:
+    material: DRIED_KELP
+    disable-interaction: true
+    disable-crafting: true
+    disable-smelting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+    name: '&eThịt Âm Binh'
+    lore:
+    - '&7 Không ngon lắm nhưng vẫn ăn được'
+    - '&7 Nguyên liệu dùng để trade vật phẩm'
+    - '&f Sự kiện:&7 Halloween 2023'
+    tier: ELITE
+NAONHENNHEN:
+  base:
+    material: NETHER_WART
+    disable-interaction: true
+    disable-crafting: true
+    disable-smelting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+    name: '&cNão Nhền Nhện'
+    lore:
+    - '&7 Không ngon lắm nhưng vẫn ăn được'
+    - '&7 Nguyên liệu dùng để trade vật phẩm'
+    - '&f Sự kiện:&7 Halloween 2023'
+    tier: ELITE
+MANHGHEP-HACLONG:
+  base:
+    material: NETHERITE_SCRAP
+    disable-interaction: true
+    disable-crafting: true
+    disable-smelting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+    name: "&f&lMảnh ghép <#c32676>&lH<#b82a8d>&lắ<#ad2da3>&lc <#a231ba>&lL<#9635d0>&lo<#8b38e7>&ln<#803cfd>&lg"
+    lore:
+    - '&7 Mảnh ghép chế tạo set đồ <#c32676>&lH<#b82a8d>&lắ<#ad2da3>&lc <#a231ba>&lL<#9635d0>&lo<#8b38e7>&ln<#803cfd>&lg'
+    - '&7 Dùng để trao đổi tại &f/warp halloween'
+    tier: ULTIMATE

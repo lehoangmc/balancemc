@@ -1,0 +1,856 @@
+NONKHOIDAU:
+  base:
+    material: LEATHER_HELMET
+    name: '&aNón Khởi Đầu'
+    lore:
+    - '&7 Đồ dành cho newbie'
+    enchants:
+      unbreaking: 3.0
+    defense: 3.0
+    tier: TRASH
+AOKHOIDAU:
+  base:
+    material: LEATHER_CHESTPLATE
+    name: '&aÁo Khởi Đầu'
+    lore:
+    - '&7 Đồ dành cho newbie'
+    enchants:
+      unbreaking: 3.0
+    armor: 4
+    tier: TRASH
+QUANKHOIDAU:
+  base:
+    material: LEATHER_LEGGINGS
+    name: '&aQuần Khởi Đầu'
+    lore:
+    - '&7 Đồ dành cho newbie'
+    enchants:
+      unbreaking: 3.0
+    defense: 2.0
+    tier: TRASH
+GIAYKHOIDAU:
+  base:
+    material: LEATHER_BOOTS
+    name: '&aGiày Khởi Đầu'
+    lore:
+    - '&7 Đồ dành cho newbie'
+    enchants:
+      unbreaking: 3.0
+    defense: 3.0
+    tier: TRASH
+NONNONGDAN:
+  base:
+    material: LEATHER_HELMET
+    name: '&eNón Nông dân'
+    lore:
+    - '&7 Đồ dành cho người mới chơi'
+    - '&7 Tìm thấy tại &f/warp trade'
+    enchants:
+      unbreaking: 4.0
+    armor: 5
+    defense: 7.0
+    tier: TRASH
+    set: NONGDAN
+AONONGDAN:
+  base:
+    material: LEATHER_CHESTPLATE
+    name: '&eÁo Nông dân'
+    lore:
+    - '&7 Đồ dành cho người mới chơi'
+    - '&7 Tìm thấy tại &f/warp trade'
+    enchants:
+      unbreaking: 4.0
+    defense: 10.0
+    tier: TRASH
+    set: NONGDAN
+QUANNONGDAN:
+  base:
+    material: LEATHER_LEGGINGS
+    name: '&eQuần Nông dân'
+    lore:
+    - '&7 Đồ dành cho người mới chơi'
+    - '&7 Tìm thấy tại &f/warp trade'
+    enchants:
+      unbreaking: 4.0
+    defense: 5.0
+    tier: TRASH
+    set: NONGDAN
+GIAYNONGDAN:
+  base:
+    material: LEATHER_BOOTS
+    name: '&eGiày Nông dân'
+    lore:
+    - '&7 Đồ dành cho người mới chơi'
+    - '&7 Tìm thấy tại &f/warp trade'
+    enchants:
+      unbreaking: 4.0
+    defense: 5.0
+    tier: TRASH
+    set: NONGDAN
+NONTHOSAN:
+  base:
+    material: IRON_HELMET
+    name: '&eNón Thợ Săn'
+    lore:
+    - '&7 Đồ dành cho người mới chơi'
+    - '&7 Tìm thấy tại &f/warp trade'
+    enchants:
+      unbreaking: 5.0
+    defense: 8.0
+    tier: COMMON
+    set: THOSAN
+AOTHOSAN:
+  base:
+    material: IRON_CHESTPLATE
+    name: '&eÁo Thợ Săn'
+    lore:
+    - '&7 Đồ dành cho người mới chơi'
+    - '&7 Tìm thấy tại &f/warp trade'
+    enchants:
+      unbreaking: 5.0
+    defense: 10.0
+    armor: 7
+    undead-damage: 10.0
+    tier: COMMON
+    set: THOSAN
+QUANTHOSAN:
+  base:
+    material: IRON_LEGGINGS
+    name: '&eQuần Thợ Săn'
+    lore:
+    - '&7 Đồ dành cho người mới chơi'
+    - '&7 Tìm thấy tại &f/warp trade'
+    enchants:
+      unbreaking: 5.0
+    defense: 7.0
+    armor: 4
+    tier: COMMON
+    set: THOSAN
+GIAYTHOSAN:
+  base:
+    material: IRON_BOOTS
+    name: '&eGiày Thợ Săn'
+    lore:
+    - '&7 Đồ dành cho người mới chơi'
+    - '&7 Tìm thấy tại &f/warp trade'
+    enchants:
+      unbreaking: 5.0
+    defense: 7.0
+    armor: 4
+    tier: COMMON
+    set: THOSAN
+NONHIEPSI:
+  base:
+    material: IRON_HELMET
+    name: '&fNón Hiệp Sĩ'
+    lore:
+    - '&7 Đồ dành cho người mới chơi'
+    - '&7 Tìm thấy tại &f/warp trade'
+    enchants:
+      unbreaking: 5.0
+    defense: 10
+    tier: COMMON
+    set: HIEPSI
+AOHIEPSI:
+  base:
+    material: IRON_CHESTPLATE
+    name: '&eÁo Hiệp Sĩ'
+    lore:
+    - '&7 Đồ dành cho người mới chơi'
+    - '&7 Tìm thấy tại &f/warp trade'
+    enchants:
+      unbreaking: 5.0
+    projectile-damage-reduction: 10.0
+    physical-damage-reduction: 5.0
+    armor: 5
+    tier: COMMON
+    set: HIEPSI
+QUANHIEPSI:
+  base:
+    material: IRON_LEGGINGS
+    name: '&eQuần Hiệp Sĩ'
+    lore:
+    - '&7 Đồ dành cho người mới chơi'
+    - '&7 Tìm thấy tại &f/warp trade'
+    enchants:
+      unbreaking: 5.0
+    defense: 6.0
+    armor: 5
+    tier: COMMON
+    set: HIEPSI
+GIAYHIEPSI:
+  base:
+    material: IRON_BOOTS
+    name: '&eGiày Hiệp Sĩ'
+    lore:
+    - '&7 Đồ dành cho người mới chơi'
+    - '&7 Tìm thấy tại &f/warp trade'
+    enchants:
+      unbreaking: 5.0
+    defense: 6.0
+    armor: 5
+    tier: COMMON
+    set: HIEPSI
+NONTHAOTHACH:
+  base:
+    material: DIAMOND_HELMET
+    name: <#30fb64>&lN<#43fb79>&ló<#57fc8f>&ln <#6afca4>&lT<#7dfcba>&lh<#90fdcf>&lả<#a3fdcc>&lo
+      <#b6fdaf>&lT<#c8fd92>&lh<#dafe75>&lạ<#edfe58>&lc<#fffe3b>&lh
+    lore:
+    - '&7 Giáp kết tinh từ nhiều loại nguyên liệu'
+    - '&7 quí, giúp tăng sức mạnh và bảo vệ bản thân'
+    enchants:
+      unbreaking: 7.0
+    defense: 10.0
+    armor: 3
+    projectile-damage-reduction: 6.0
+    tier: COMMON
+    set: THAOTHACH
+AOTHAOTHACH:
+  base:
+    material: DIAMOND_CHESTPLATE
+    name: <#30fb64>&lÁ<#45fb7c>&lo <#5afc93>&lT<#70fcab>&lh<#85fdc2>&lả<#9afdda>&lo
+      <#aefdba>&lT<#c2fd9a>&lh<#d7fe7b>&lạ<#ebfe5b>&lc<#fffe3b>&lh
+    lore:
+    - '&7 Giáp kết tinh từ nhiều loại nguyên liệu'
+    - '&7 quí, giúp tăng sức mạnh và bảo vệ bản thân'
+    enchants:
+      unbreaking: 7.0
+    defense: 12.0
+    armor: 7
+    tier: COMMON
+    set: THAOTHACH
+    pve-damage-reduction: 15.0
+QUANTHAOTHACH:
+  base:
+    material: DIAMOND_LEGGINGS
+    name: <#30fb64>&lQ<#42fb78>&lu<#53fc8b>&lầ<#65fc9f>&ln <#77fcb3>&lT<#88fdc6>&lh<#9afdda>&lả<#abfdc0>&lo
+      <#bcfda5>&lT<#cdfe8b>&lh<#ddfe70>&lạ<#eefe56>&lc<#fffe3b>&lh
+    lore:
+    - '&7 Giáp kết tinh từ nhiều loại nguyên liệu'
+    - '&7 quí, giúp tăng sức mạnh và bảo vệ bản thân'
+    enchants:
+      unbreaking: 7.0
+    defense: 8.0
+    knockback-resistance: 0.2
+    armor: 6
+    tier: COMMON
+    set: THAOTHACH
+GIAYTHAOTHACH:
+  base:
+    material: DIAMOND_BOOTS
+    name: <#30fb64>&lG<#42fb78>&li<#53fc8b>&là<#65fc9f>&ly <#77fcb3>&lT<#88fdc6>&lh<#9afdda>&lả<#abfdc0>&lo
+      <#bcfda5>&lT<#cdfe8b>&lh<#ddfe70>&lạ<#eefe56>&lc<#fffe3b>&lh
+    lore:
+    - '&7 Giáp kết tinh từ nhiều loại nguyên liệu'
+    - '&7 quí, giúp tăng sức mạnh và bảo vệ bản thân'
+    enchants:
+      unbreaking: 7.0
+    defense: 10.0
+    armor: 4
+    fall-damage-reduction: 10.0
+    tier: COMMON
+    set: THAOTHACH
+NONLIENHOACHIENGIAP:
+  base:
+    material: DIAMOND_HELMET
+    name: <#fb6b9a>&lL<#f86fa1>&li<#f672a7>&lê<#f376ae>&ln <#f079b4>&lH<#ed7dbb>&lo<#eb81c2>&la
+      <#e884c8>&lC<#e588cf>&lh<#e28bd5>&li<#e08fdc>&lế<#dd93e3>&ln <#da96e9>&lG<#d79af0>&li<#d59df6>&lá<#d2a1fd>&lp
+    lore:
+    - '&7 Được chế tạo từ &aLục Bảo Tinh Luyện&7 nguyên chất'
+    - '&7 kết hợp với &dLiên Hoa&7 quí hiếm và thuần khiết'
+    enchants:
+      unbreaking: 8.0
+    defense: 32.0
+    armor: 7
+    tier: RARE
+    set: LIENHOACHIENGIAP
+AOLIENHOACHIENGIAP:
+  base:
+    material: DIAMOND_CHESTPLATE
+    name: <#fb6b9a>&lL<#f86fa1>&li<#f672a7>&lê<#f376ae>&ln <#f079b4>&lH<#ed7dbb>&lo<#eb81c2>&la
+      <#e884c8>&lC<#e588cf>&lh<#e28bd5>&li<#e08fdc>&lế<#dd93e3>&ln <#da96e9>&lG<#d79af0>&li<#d59df6>&lá<#d2a1fd>&lp
+    lore:
+    - '&7 Được chế tạo từ &aLục Bảo Tinh Luyện&7 nguyên chất'
+    - '&7 kết hợp với &dLiên Hoa&7 quí hiếm và thuần khiết'
+    enchants:
+      unbreaking: 8.0
+    max-health: 1.0
+    defense: 40.0
+    armor: 10
+    tier: RARE
+    set: LIENHOACHIENGIAP
+QUANLIENHOACHIENGIAP:
+  base:
+    material: DIAMOND_LEGGINGS
+    name: <#fb6b9a>&lL<#f86fa1>&li<#f672a7>&lê<#f376ae>&ln <#f079b4>&lH<#ed7dbb>&lo<#eb81c2>&la
+      <#e884c8>&lC<#e588cf>&lh<#e28bd5>&li<#e08fdc>&lế<#dd93e3>&ln <#da96e9>&lG<#d79af0>&li<#d59df6>&lá<#d2a1fd>&lp
+    lore:
+    - '&7 Được chế tạo từ &aLục Bảo Tinh Luyện&7 nguyên chất'
+    - '&7 kết hợp với &dLiên Hoa&7 quí hiếm và thuần khiết'
+    enchants:
+      unbreaking: 8.0
+    defense: 32.0
+    armor: 8
+    tier: RARE
+    set: LIENHOACHIENGIAP
+GIAYLIENHOACHIENGIAP:
+  base:
+    material: DIAMOND_BOOTS
+    name: <#fb6b9a>&lL<#f86fa1>&li<#f672a7>&lê<#f376ae>&ln <#f079b4>&lH<#ed7dbb>&lo<#eb81c2>&la
+      <#e884c8>&lC<#e588cf>&lh<#e28bd5>&li<#e08fdc>&lế<#dd93e3>&ln <#da96e9>&lG<#d79af0>&li<#d59df6>&lá<#d2a1fd>&lp
+    lore:
+    - '&7 Được chế tạo từ &aLục Bảo Tinh Luyện&7 nguyên chất'
+    - '&7 kết hợp với &dLiên Hoa&7 quí hiếm và thuần khiết'
+    enchants:
+      unbreaking: 8.0
+    defense: 32.0
+    fall-damage-reduction: 15.0
+    tier: RARE
+    set: LIENHOACHIENGIAP
+NONLIENHOATIENGIAP:
+  base:
+    material: DIAMOND_HELMET
+    name: <#fb6b9a>&l✾ <#f86ea0>&lL<#f672a6>&li<#f375ad>&lê<#f179b3>&ln <#ee7cb9>&lH<#ec7fbf>&lo<#e983c5>&la
+      <#e786cc>&lT<#e489d2>&li<#e18dd8>&lê<#df90de>&ln <#dc94e4>&lG<#da97ea>&li<#d79af1>&lá<#d59ef7>&lp
+      <#d2a1fd>&l✾
+    lore:
+    - '&7 Tiên giáp đột phá từ &dLiên Hoa Chiến Giáp'
+    - '&7 mang lại sức mạnh phòng thủ vượt trội, bảo'
+    - '&7 vệ cơ thể khỏi tấn công từ đối phương'
+    - ''
+    - '&f 『&eBẤT PHÁ&f』'
+    hide-enchants: true
+    enchants:
+      unbreaking: 10.0
+    unbreakable: true
+    defense: 54.0
+    armor: 12
+    tier: ELITE
+    set: LIENHOATIENGIAP
+AOLIENHOATIENGIAP:
+  base:
+    material: DIAMOND_CHESTPLATE
+    name: <#fb6b9a>&l✾ <#f86ea0>&lL<#f672a6>&li<#f375ad>&lê<#f179b3>&ln <#ee7cb9>&lH<#ec7fbf>&lo<#e983c5>&la
+      <#e786cc>&lT<#e489d2>&li<#e18dd8>&lê<#df90de>&ln <#dc94e4>&lG<#da97ea>&li<#d79af1>&lá<#d59ef7>&lp
+      <#d2a1fd>&l✾
+    lore:
+    - '&7 Tiên giáp đột phá từ &dLiên Hoa Chiến Giáp'
+    - '&7 mang lại sức mạnh phòng thủ vượt trội, bảo'
+    - '&7 vệ cơ thể khỏi tấn công từ đối phương'
+    - ''
+    - '&f 『&eBẤT PHÁ&f』'
+    hide-enchants: true
+    enchants:
+      unbreaking: 10.0
+    unbreakable: true
+    max-health: 2.0
+    defense: 60.0
+    armor: 16
+    tier: ELITE
+    set: LIENHOATIENGIAP
+    gem-sockets:
+    - Phòng Thủ
+QUANLIENHOATIENGIAP:
+  base:
+    material: DIAMOND_LEGGINGS
+    name: <#fb6b9a>&l✾ <#f86ea0>&lL<#f672a6>&li<#f375ad>&lê<#f179b3>&ln <#ee7cb9>&lH<#ec7fbf>&lo<#e983c5>&la
+      <#e786cc>&lT<#e489d2>&li<#e18dd8>&lê<#df90de>&ln <#dc94e4>&lG<#da97ea>&li<#d79af1>&lá<#d59ef7>&lp
+      <#d2a1fd>&l✾
+    lore:
+    - '&7 Tiên giáp đột phá từ &dLiên Hoa Chiến Giáp'
+    - '&7 mang lại sức mạnh phòng thủ vượt trội, bảo'
+    - '&7 vệ cơ thể khỏi tấn công từ đối phương'
+    - ''
+    - '&f 『&eBẤT PHÁ&f』'
+    hide-enchants: true
+    enchants:
+      unbreaking: 10.0
+    unbreakable: true
+    defense: 54.0
+    armor: 10
+    tier: ELITE
+    set: LIENHOATIENGIAP
+    gem-sockets:
+    - Phòng Thủ
+GIAYLIENHOATIENGIAP:
+  base:
+    material: DIAMOND_BOOTS
+    name: <#fb6b9a>&l✾ <#f86ea0>&lL<#f672a6>&li<#f375ad>&lê<#f179b3>&ln <#ee7cb9>&lH<#ec7fbf>&lo<#e983c5>&la
+      <#e786cc>&lT<#e489d2>&li<#e18dd8>&lê<#df90de>&ln <#dc94e4>&lG<#da97ea>&li<#d79af1>&lá<#d59ef7>&lp
+      <#d2a1fd>&l✾
+    lore:
+    - '&7 Tiên giáp đột phá từ &dLiên Hoa Chiến Giáp'
+    - '&7 mang lại sức mạnh phòng thủ vượt trội, bảo'
+    - '&7 vệ cơ thể khỏi tấn công từ đối phương'
+    - ''
+    - '&f 『&eBẤT PHÁ&f』'
+    hide-enchants: true
+    enchants:
+      unbreaking: 10.0
+    unbreakable: true
+    defense: 54.0
+    movement-speed: 0.03
+    fall-damage-reduction: 20.0
+    tier: ELITE
+    set: LIENHOATIENGIAP
+NONDUNGNHAM:
+  base:
+    material: IRON_HELMET
+    name: <#fb8d31>&lN<#fba13a>&ló<#fcb643>&ln <#fcca4b>&lD<#fddf54>&lu<#fdf35d>&ln<#fddf54>&lg
+      <#fcca4b>&lN<#fcb643>&lh<#fba13a>&la<#fb8d31>&lm
+    lore:
+    - '&7 Loại giáp chế tác từ dung nham nóng chảy'
+    enchants:
+      unbreaking: 5.0
+      fire_protection: 3.0
+    defense: 8.0
+    tier: COMMON
+    set: DUNGNHAM
+AODUNGNHAM:
+  base:
+    material: IRON_CHESTPLATE
+    name: <#fb8d31>&lÁ<#fba43b>&lo <#fcba45>&lD<#fcd14e>&lu<#fde858>&ln<#fde858>&lg
+      <#fcd14e>&lN<#fcba45>&lh<#fba43b>&la<#fb8d31>&lm
+    lore:
+    - '&7 Loại giáp chế tác từ dung nham nóng chảy'
+    enchants:
+      unbreaking: 5.0
+      fire_protection: 3.0
+    defense: 10.0
+    armor: 3
+    damage-reduction: 10.0
+    tier: COMMON
+    set: DUNGNHAM
+QUANDUNGNHAM:
+  base:
+    material: IRON_LEGGINGS
+    name: <#fb8d31>&lQ<#fba039>&lu<#fcb241>&lầ<#fcc549>&ln <#fcd751>&lD<#fdea59>&lu<#fdea59>&ln<#fcd751>&lg
+      <#fcc549>&lN<#fcb241>&lh<#fba039>&la<#fb8d31>&lm
+    lore:
+    - '&7 Loại giáp chế tác từ dung nham nóng chảy'
+    enchants:
+      unbreaking: 5.0
+      fire_protection: 3.0
+    knockback-resistance: 0.3
+    defense: 7.0
+    tier: COMMON
+    set: DUNGNHAM
+GIAYDUNGNHAM:
+  base:
+    material: IRON_BOOTS
+    name: <#fb8d31>&lG<#fba039>&li<#fcb241>&là<#fcc549>&ly <#fcd751>&lD<#fdea59>&lu<#fdea59>&ln<#fcd751>&lg
+      <#fcc549>&lN<#fcb241>&lh<#fba039>&la<#fb8d31>&lm
+    lore:
+    - '&7 Loại giáp chế tác từ dung nham nóng chảy'
+    enchants:
+      unbreaking: 5.0
+      fire_protection: 4.0
+    armor: 4.0
+    tier: COMMON
+    set: DUNGNHAM
+NONTUNGUYET:
+  base:
+    material: NETHERITE_HELMET
+    name: <#fb408e>&lN<#fb3e84>&ló<#fc3c7a>&ln <#fc3a71>&lT<#fd3867>&lử <#fd365d>&lN<#fd3453>&lg<#fe3249>&lu<#fe3040>&ly<#ff2e36>&lệ<#ff2c2c>&lt
+    lore:
+    - ''
+    - '&f 『&eBẤT PHÁ&f』'
+    hide-enchants: true
+    enchants:
+      unbreaking: 10.0
+    unbreakable: true
+    defense: 60.0
+    armor: 16
+    tier: ELITE
+    set: TUNGUYET
+    gem-sockets:
+    - Phòng Thủ
+AOTUNGUYET:
+  base:
+    material: NETHERITE_CHESTPLATE
+    name: <#fb408e>&lÁ<#fb3e83>&lo <#fc3c78>&lT<#fc396d>&lử <#fd3762>&lN<#fd3558>&lg<#fe334d>&lu<#fe3042>&ly<#ff2e37>&lệ<#ff2c2c>&lt
+    lore:
+    - ''
+    - '&f 『&eBẤT PHÁ&f』'
+    hide-enchants: true
+    enchants:
+      unbreaking: 10.0
+    unbreakable: true
+    max-health: 3.0
+    defense: 74.0
+    armor: 18
+    tier: ELITE
+    set: TUNGUYET
+    gem-sockets:
+    - Phòng Thủ
+QUANTUNGUYET:
+  base:
+    material: NETHERITE_LEGGINGS
+    name: <#fb408e>&lQ<#fb3e85>&lu<#fc3c7c>&lầ<#fc3b73>&ln <#fc396a>&lT<#fd3761>&lử
+      <#fd3559>&lN<#fe3350>&lg<#fe3147>&lu<#fe303e>&ly<#ff2e35>&lệ<#ff2c2c>&lt
+    lore:
+    - ''
+    - '&f 『&eBẤT PHÁ&f』'
+    hide-enchants: true
+    enchants:
+      unbreaking: 10.0
+    unbreakable: true
+    defense: 60.0
+    armor: 15
+    tier: ELITE
+    set: TUNGUYET
+    gem-sockets:
+    - Phòng Thủ
+GIAYTUNGUYET:
+  base:
+    material: NETHERITE_BOOTS
+    name: <#fb408e>&lG<#fb3e85>&li<#fc3c7c>&là<#fc3b73>&ly <#fc396a>&lT<#fd3761>&lử
+      <#fd3559>&lN<#fe3350>&lg<#fe3147>&lu<#fe303e>&ly<#ff2e35>&lệ<#ff2c2c>&lt
+    lore:
+    - ''
+    - '&f 『&eBẤT PHÁ&f』'
+    hide-enchants: true
+    enchants:
+      unbreaking: 10.0
+    unbreakable: true
+    defense: 60.0
+    movement-speed: 0.03
+    tier: ELITE
+    set: TUNGUYET
+    gem-sockets:
+    - Phòng Thủ
+NONTACZAN:
+  base:
+    material: LEATHER_HELMET
+    name: <#1b8113>&lᴛ<#2f9427>&lᴀ<#44a73c>&lᴄ<#44a73c>&lᴢ<#2f9427>&lᴀ<#1b8113>&lɴ
+    hide-enchants: true
+    enchants:
+      unbreaking: 10.0
+      protection: 7.0
+    unbreakable: true
+    lore:
+    - '&7 Set đồ chế tạo từ nguyên liệu tại rừng rậm'
+    - '&7 Hạ Giới tăng khả năng di chuyển và nhảy xa.'
+    - '&7 Đồng thời sở hữu sức mạnh ngăn thú dữ.'
+    - ''
+    - '&f 『&eBẤT PHÁ&f』'
+    defense: 45.0
+    armor: 10
+    tier: ELITE
+    set: TACZAN
+    dye-color: 71 186 96
+    hide-dye: true
+AOTACZAN:
+  base:
+    material: LEATHER_CHESTPLATE
+    name: <#1b8113>&lᴛ<#2f9427>&lᴀ<#44a73c>&lᴄ<#44a73c>&lᴢ<#2f9427>&lᴀ<#1b8113>&lɴ
+    hide-enchants: true
+    enchants:
+      unbreaking: 10.0
+    unbreakable: true
+    lore:
+    - '&7 Set đồ chế tạo từ nguyên liệu tại rừng rậm'
+    - '&7 Hạ Giới tăng khả năng di chuyển và nhảy xa.'
+    - '&7 Đồng thời sở hữu sức mạnh ngăn thú dữ.'
+    - ''
+    - '&f 『&eBẤT PHÁ&f』'
+    pve-damage-reduction: 30.0
+    defense: 50.0
+    armor: 18
+    tier: ELITE
+    set: TACZAN
+    gem-sockets:
+    - Phòng Thủ
+    dye-color: 71 186 96
+    hide-dye: true
+QUANTACZAN:
+  base:
+    material: LEATHER_LEGGINGS
+    name: <#1b8113>&lᴛ<#2f9427>&lᴀ<#44a73c>&lᴄ<#44a73c>&lᴢ<#2f9427>&lᴀ<#1b8113>&lɴ
+    hide-enchants: true
+    enchants:
+      unbreaking: 10.0
+    unbreakable: true
+    lore:
+    - '&7 Set đồ chế tạo từ nguyên liệu tại rừng rậm'
+    - '&7 Hạ Giới tăng khả năng di chuyển và nhảy xa.'
+    - '&7 Đồng thời sở hữu sức mạnh ngăn thú dữ.'
+    - ''
+    - '&f 『&eBẤT PHÁ&f』'
+    defense: 42.0
+    armor: 8
+    tier: ELITE
+    set: TACZAN
+    dye-color: 71 186 96
+    hide-dye: true
+GIAYTACZAN:
+  base:
+    material: LEATHER_BOOTS
+    name: <#1b8113>&lᴛ<#2f9427>&lᴀ<#44a73c>&lᴄ<#44a73c>&lᴢ<#2f9427>&lᴀ<#1b8113>&lɴ
+    hide-enchants: true
+    enchants:
+      unbreaking: 10.0
+    unbreakable: true
+    lore:
+    - '&7 Set đồ chế tạo từ nguyên liệu tại rừng rậm'
+    - '&7 Hạ Giới tăng khả năng di chuyển và nhảy xa.'
+    - '&7 Đồng thời sở hữu sức mạnh ngăn thú dữ.'
+    - ''
+    - '&f 『&eBẤT PHÁ&f』'
+    defense: 45.0
+    fall-damage-reduction: 40.0
+    tier: ELITE
+    set: TACZAN
+    gem-sockets:
+    - Phòng Thủ
+    dye-color: 71 186 96
+    hide-dye: true
+    perm-effects:
+      JUMP: 1.0
+NONHOALONG:
+  base:
+    material: LEATHER_HELMET
+    name: <#fbad38>&lH<#fb9f4c>&lo<#fc9160>&lả <#fc8275>&lL<#fd7489>&lo<#fd669d>&ln<#f6788c>&lg
+      <#ee8a7b>&lG<#e79d6a>&li<#dfaf59>&lá<#d8c148>&lp
+    hide-enchants: true
+    enchants:
+      unbreaking: 10.0
+    unbreakable: true
+    lore:
+    - '&7 Set đồ kiếm được từ phó bản Động'
+    - '&7 Khoáng Thạch, rất phù hợp để mặc'
+    - '&7 khi khai thác quặng.'
+    - ''
+    - '&f 『&eBẤT PHÁ&f』'
+    defense: 54.0
+    tier: ELITE
+    set: HOALONG
+    gem-sockets:
+    - Phòng Thủ
+    dye-color: 224 186 96
+    hide-dye: true
+AOHOALONG:
+  base:
+    material: LEATHER_CHESTPLATE
+    name: <#fbad38>&lH<#fb9f4c>&lo<#fc9160>&lả <#fc8275>&lL<#fd7489>&lo<#fd669d>&ln<#f6788c>&lg
+      <#ee8a7b>&lG<#e79d6a>&li<#dfaf59>&lá<#d8c148>&lp
+    hide-enchants: true
+    enchants:
+      unbreaking: 10.0
+    unbreakable: true
+    lore:
+    - '&7 Set đồ kiếm được từ phó bản Động'
+    - '&7 Khoáng Thạch, rất phù hợp để mặc'
+    - '&7 khi khai thác quặng.'
+    - ''
+    - '&f 『&eBẤT PHÁ&f』'
+    defense: 60.0
+    armor: 18
+    tier: ELITE
+    set: HOALONG
+    gem-sockets:
+    - Phòng Thủ
+    dye-color: 224 186 96
+    hide-dye: true
+QUANHOALONG:
+  base:
+    material: LEATHER_LEGGINGS
+    name: <#fbad38>&lH<#fb9f4c>&lo<#fc9160>&lả <#fc8275>&lL<#fd7489>&lo<#fd669d>&ln<#f6788c>&lg
+      <#ee8a7b>&lG<#e79d6a>&li<#dfaf59>&lá<#d8c148>&lp
+    hide-enchants: true
+    enchants:
+      unbreaking: 10.0
+    unbreakable: true
+    lore:
+    - '&7 Set đồ kiếm được từ phó bản Động'
+    - '&7 Khoáng Thạch, rất phù hợp để mặc'
+    - '&7 khi khai thác quặng.'
+    - ''
+    - '&f 『&eBẤT PHÁ&f』'
+    defense: 50.0
+    armor: 10
+    tier: ELITE
+    set: HOALONG
+    dye-color: 224 186 96
+    hide-dye: true
+GIAYHOALONG:
+  base:
+    material: LEATHER_BOOTS
+    name: <#fbad38>&lH<#fb9f4c>&lo<#fc9160>&lả <#fc8275>&lL<#fd7489>&lo<#fd669d>&ln<#f6788c>&lg
+      <#ee8a7b>&lG<#e79d6a>&li<#dfaf59>&lá<#d8c148>&lp
+    hide-enchants: true
+    enchants:
+      unbreaking: 10.0
+    unbreakable: true
+    lore:
+    - '&7 Set đồ kiếm được từ phó bản Động'
+    - '&7 Khoáng Thạch, rất phù hợp để mặc'
+    - '&7 khi khai thác quặng.'
+    - ''
+    - '&f 『&eBẤT PHÁ&f』'
+    defense: 60.0
+    armor: 10.0
+    tier: ELITE
+    set: HOALONG
+    gem-sockets:
+    - Phòng Thủ
+    dye-color: 224 186 96
+    hide-dye: true
+    perm-effects:
+      FIRE_RESISTANCE: 10.0
+NONBAVUONGCHIENGIAP:
+  base:
+    material: NETHERITE_HELMET
+    name: <#fda656>&lB<#fdac58>&lá <#fcb159>&lV<#fcb75b>&lư<#fcbc5c>&lơ<#fcc25e>&ln<#fbc860>&lg
+      <#fbcd61>&lC<#fbcd61>&lh<#fbc860>&li<#fcc25e>&lế<#fcbc5c>&ln <#fcb75b>&lG<#fcb159>&li<#fdac58>&lá<#fda656>&lp
+    hide-enchants: true
+    enchants:
+      unbreaking: 10.0
+    unbreakable: true
+    defense: 110.0
+    armor: 20
+    tier: ULTIMATE
+    set: BAVUONGCHIENGIAP
+    gem-sockets:
+    - Phòng Thủ
+AOBAVUONGCHIENGIAP:
+  base:
+    material: NETHERITE_CHESTPLATE
+    name: <#fda656>&lB<#fdac58>&lá <#fcb159>&lV<#fcb75b>&lư<#fcbc5c>&lơ<#fcc25e>&ln<#fbc860>&lg
+      <#fbcd61>&lC<#fbcd61>&lh<#fbc860>&li<#fcc25e>&lế<#fcbc5c>&ln <#fcb75b>&lG<#fcb159>&li<#fdac58>&lá<#fda656>&lp
+    hide-enchants: true
+    enchants:
+      unbreaking: 10.0
+    unbreakable: true
+    max-health: 4.0
+    defense: 120.0
+    armor: 25
+    tier: ULTIMATE
+    set: BAVUONGCHIENGIAP
+    gem-sockets:
+    - Phòng Thủ
+    - Phòng Thủ
+    parry-rating: 10.0
+    ability:
+      ability1:
+        type: SHOCKWAVE
+        mode: DAMAGED
+        mana: 5.0
+        knock-up: 3.0
+        cooldown: 4.0
+QUANBAVUONGCHIENGIAP:
+  base:
+    material: NETHERITE_LEGGINGS
+    name: <#fda656>&lB<#fdac58>&lá <#fcb159>&lV<#fcb75b>&lư<#fcbc5c>&lơ<#fcc25e>&ln<#fbc860>&lg
+      <#fbcd61>&lC<#fbcd61>&lh<#fbc860>&li<#fcc25e>&lế<#fcbc5c>&ln <#fcb75b>&lG<#fcb159>&li<#fdac58>&lá<#fda656>&lp
+    hide-enchants: true
+    enchants:
+      unbreaking: 10.0
+    unbreakable: true
+    defense: 110.0
+    armor: 16
+    tier: ULTIMATE
+    set: BAVUONGCHIENGIAP
+    gem-sockets:
+    - Phòng Thủ
+GIAYBAVUONGCHIENGIAP:
+  base:
+    material: NETHERITE_BOOTS
+    name: <#fda656>&lB<#fdac58>&lá <#fcb159>&lV<#fcb75b>&lư<#fcbc5c>&lơ<#fcc25e>&ln<#fbc860>&lg
+      <#fbcd61>&lC<#fbcd61>&lh<#fbc860>&li<#fcc25e>&lế<#fcbc5c>&ln <#fcb75b>&lG<#fcb159>&li<#fdac58>&lá<#fda656>&lp
+    hide-enchants: true
+    enchants:
+      unbreaking: 10.0
+    unbreakable: true
+    defense: 100.0
+    movement-speed: 0.05
+    tier: ULTIMATE
+    set: BAVUONGCHIENGIAP
+    gem-sockets:
+    - Phòng Thủ
+    - Phòng Thủ
+NONHACLONG:
+  base:
+    material: NETHERITE_HELMET
+    name: <#c32676>&lH<#bc2884>&lắ<#b62a91>&lc <#af2d9f>&lL<#a82fac>&lo<#a231ba>&ln<#9b33c7>&lg
+      <#9435d5>&lG<#8d38e2>&li<#873af0>&lá<#803cfd>&lp
+    hide-enchants: true
+    enchants:
+      unbreaking: 10.0
+    unbreakable: true
+    defense: 88.0
+    armor: 15
+    tier: ULTIMATE
+    set: HACLONGGIAP
+    gem-sockets:
+    - Phòng Thủ
+AOHACLONG:
+  base:
+    material: NETHERITE_CHESTPLATE
+    name: <#c32676>&lH<#bc2884>&lắ<#b62a91>&lc <#af2d9f>&lL<#a82fac>&lo<#a231ba>&ln<#9b33c7>&lg
+      <#9435d5>&lG<#8d38e2>&li<#873af0>&lá<#803cfd>&lp
+    hide-enchants: true
+    enchants:
+      unbreaking: 10.0
+    unbreakable: true
+    max-health: 3.0
+    defense: 100.0
+    armor: 17
+    tier: ULTIMATE
+    set: HACLONGGIAP
+    gem-sockets:
+    - Phòng Thủ
+    - Phòng Thủ
+    parry-rating: 7.0
+QUANHACLONG:
+  base:
+    material: NETHERITE_LEGGINGS
+    name: <#c32676>&lH<#bc2884>&lắ<#b62a91>&lc <#af2d9f>&lL<#a82fac>&lo<#a231ba>&ln<#9b33c7>&lg
+      <#9435d5>&lG<#8d38e2>&li<#873af0>&lá<#803cfd>&lp
+    hide-enchants: true
+    enchants:
+      unbreaking: 10.0
+    unbreakable: true
+    defense: 86.0
+    armor: 5
+    tier: ULTIMATE
+    set: HACLONGGIAP
+GIAYHACLONG:
+  base:
+    material: NETHERITE_BOOTS
+    name: <#c32676>&lH<#bc2884>&lắ<#b62a91>&lc <#af2d9f>&lL<#a82fac>&lo<#a231ba>&ln<#9b33c7>&lg
+      <#9435d5>&lG<#8d38e2>&li<#873af0>&lá<#803cfd>&lp
+    hide-enchants: true
+    enchants:
+      unbreaking: 10.0
+    unbreakable: true
+    defense: 70.0
+    movement-speed: 0.04
+    tier: ULTIMATE
+    set: HACLONGGIAP
+    gem-sockets:
+    - Phòng Thủ
+AOCHOANG:
+  base:
+    material: IRON_CHESTPLATE
+    gem-sockets:
+    - A
+    - Cường hóa
+    additional-vitality: 1.0
+    additional-strength: 1.0
+    required-strength: 1.0
+    required-agility: 1.0
+    additional-energy: 1.0
+    additional-agility: 1.0
+    required-energy: 1.0
+    max-health-regeneration: 10.0
+    element:
+      wind:
+        damage: 1000.0
+      darkness:
+        defense: 100.0
+    name: COn cu
+    lore:
+    - bao cao su
+    max-health: 10.0

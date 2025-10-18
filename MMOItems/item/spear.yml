@@ -1,0 +1,85 @@
+GIAOSAT:
+  base:
+    material: TRIDENT
+    enchants:
+      unbreaking: 5.0
+    name: '&eGiáo sắt'
+    lore:
+    - '&7 Đồ dành cho người mới chơi'
+    - '&7 Tìm thấy tại &f/warp trade'
+    attack-damage: 10.0
+    pve-damage: 15.0
+    tier: COMMON
+    critical-strike-chance: 20.0
+    critical-strike-power: 50.0
+LIENHOACHIENKICH:
+  base:
+    material: TRIDENT
+    enchants:
+      unbreaking: 8.0
+      loyalty: 2.0
+    name: <#fb6b9a>&lL<#fb779b>&li<#fc839c>&lê<#fc8e9e>&ln <#fd9a9f>&lH<#fda6a0>&lo<#fba8a4>&la <#f9aaa8>&lC<#f8adab>&lh<#f6afaf>&li<#f4b1b3>&lế<#edaec2>&ln <#e6abd1>&lK<#e0a7df>&lí<#d9a4ee>&lc<#d2a1fd>&lh
+    lore:
+    - '&7 Chiến kích được chế tạo từ &aLục Bảo Tinh Luyện&7 nguyên'
+    - '&7 chất kết hợp với &dLiên Hoa Nhung&7 quí hiếm và thuần khiết'
+    attack-damage: 36.0
+    pve-damage: 20.0
+    tier: RARE
+    critical-strike-chance: 35.0
+    critical-strike-power: 50.0
+LIENHOATIENKICH:
+  base:
+    material: TRIDENT
+    enchants:
+      loyalty: 3.0
+    name: <#fb6b9a>&l✾ <#fb769b>&lL<#fc819c>&li<#fc8c9d>&lê<#fd979f>&ln <#fda2a0>&lH<#fca7a2>&lo<#faa9a6>&la <#f9acaa>&lT<#f7aead>&li<#f5b0b1>&lê<#f2b0b8>&ln <#ecadc6>&lK<#e5aad3>&lí<#dfa7e1>&lc<#d8a4ef>&lh <#d2a1fd>&l✾
+    lore:
+    - '&7 Tiên kích đột phá từ &dLiên Hoa Chiến Kích&7 kết hợp nhiều'
+    - '&7 nguyên liệu cấp &cTiên&7 tạo thành. Sở hữu sức mạnh vượt'
+    - '&7 trội so với chiến kích, cùng tuyệt kĩ nội tại mạnh mẽ'
+    - ''
+    - '&f 『&eBẤT PHÁ&f』'
+    unbreakable: true
+    attack-damage: 60
+    pve-damage: 40.0
+    tier: ELITE
+    critical-strike-chance: 30.0
+    critical-strike-power: 80.0
+    attack-speed: 5.0
+    skill-critical-strike-chance: 15.0
+    skill-critical-strike-power: 50.0
+    ability:
+      ability1:
+        type: CIRCULAR_SLASH
+        mode: TRIDENT_HIT
+        damage: 78.0
+        mana: 12.0
+    gem-sockets:
+    - "Tấn Công"
+LIENHOATHANKICH:
+  base:
+    material: TRIDENT
+    enchants:
+      loyalty: 5.0
+    name: <#fb6b9a>&l✾ <#fb769b>&lL<#fc819c>&li<#fc8c9d>&lê<#fd979f>&ln <#fda2a0>&lH<#fca7a2>&lo<#faa9a6>&la <#f9acaa>&lT<#f7aead>&lh<#f5b0b1>&lầ<#f2b0b8>&ln <#ecadc6>&lK<#e5aad3>&lí<#dfa7e1>&lc<#d8a4ef>&lh <#d2a1fd>&l✾
+    lore:
+    - '&7 Thần kích đột phá từ &dLiên Hoa Tiên Kích&7 sở hữu'
+    - '&7 sức mạnh siêu nhiên, có khả năng huỷ diệt vạn vật'
+    - '&7 trong chớp mắt'
+    unbreakable: true
+    attack-damage: 80
+    pve-damage: 60
+    tier: ULTIMATE
+    critical-strike-chance: 30.0
+    critical-strike-power: 99.0
+    attack-speed: 6.0
+    skill-critical-strike-chance: 20.0
+    skill-critical-strike-power: 60.0
+    ability:
+      ability1:
+        type: CIRCULAR_SLASH
+        mode: TRIDENT_HIT
+        damage: 92.0
+        mana: 16.0
+    gem-sockets:
+    - "Tấn Công"

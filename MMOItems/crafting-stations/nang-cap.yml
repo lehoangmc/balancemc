@@ -1,0 +1,27 @@
+# Tên hiển thị của trạm chế tạo trong game
+name: 'Bàn Nâng Cấp Vũ Khí'
+# Các item slot trong GUI, 'i' là ingredient, 'o' là output, '.' là slot trống
+layout:
+- '.........'
+- '..i.i.o..'
+- '.........'
+
+# Định nghĩa các công thức
+recipes:
+    # ID của công thức, phải là duy nhất
+    add-fireball-to-sword:
+        type: upgrading # Đây là công thức nâng cấp, không phải chế tạo
+        time: 5 # Thời gian nâng cấp (giây)
+        
+        # Nguyên liệu yêu cầu
+        ingredients:
+        # Nguyên liệu 1: Cây kiếm cần nâng cấp
+        # THAY "YOUR_SWORD_ID" bằng ID của cây kiếm bạn muốn nâng cấp
+        - 'mmoitem{set=UPGRADEABLE_WEAPONS,id=YOUR_SWORD_ID,amount=1}'
+        
+        # Nguyên liệu 2: Sách kỹ năng
+        - 'mmoitem{type=MISCELLANEOUS,id=FIREBALL_BOOK,amount=1}'
+        
+        # Áp dụng mẫu nâng cấp đã tạo ở Bước 2
+        upgrade:
+            template: ADD_FIREBALL_SKILL

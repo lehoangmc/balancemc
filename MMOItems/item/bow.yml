@@ -1,0 +1,163 @@
+CUNGBAC1:
+  base:
+    revision-id: 2
+    material: BOW
+    name: '&f&lCung Bạc I'
+    enchants:
+      unbreaking: 7.0
+    tier: RARE
+    attack-damage: 27.0
+    critical-strike-chance: 10.0
+    critical-strike-power: 40.0
+CUNGBAC2:
+  base:
+    revision-id: 2
+    material: BOW
+    name: '&f&lCung Bạc II'
+    enchants:
+      unbreaking: 9.0
+    tier: RARE
+    attack-damage: 36.0
+    pve-damage: 30.0
+    critical-strike-chance: 15.0
+    critical-strike-power: 40.0
+CUNGBAC3:
+  base:
+    revision-id: 2
+    material: BOW
+    name: '&f&lCung Bạc III'
+    enchants:
+      unbreaking: 10.0
+    hide-enchants: true
+    lore:
+    - ''
+    - '&f 『&eBẤT PHÁ&f』'
+    unbreakable: true
+    tier: ELITE
+    attack-damage: 44.0
+    critical-strike-chance: 20.0
+    critical-strike-power: 45.0
+    pve-damage: 50.0
+    gem-sockets:
+    - Tấn Công
+CUNGTHIENVU1:
+  base:
+    revision-id: 2
+    material: BOW
+    name: <#b6f5fb>&lC<#98edfb>&lu<#7ae5fb>&ln<#5bddfb>&lg <#3dd5fb>&lT<#1fcdfb>&lh<#4bcafb>&li<#78c6fb>&lê<#a4c3fc>&ln
+      <#d1bffc>&lV<#fdbcfc>&lũ I
+    lore:
+    - '&7 ✦ Hiệu ứng mũi tên &fThiên Vũ'
+    - '&7 ✦ Hiệu ứng thuốc &2Độc Tố III &7[10s]'
+    - ''
+    - '&f 『&eBẤT PHÁ&f』'
+    enchants:
+      unbreaking: 10.0
+    hide-enchants: true
+    unbreakable: true
+    tier: ELITE
+    attack-damage: 55.0
+    critical-strike-chance: 25.0
+    critical-strike-power: 80.0
+    skill-critical-strike-chance: 20.0
+    skill-critical-strike-power: 50.0
+    arrow-velocity: 1.5
+    arrow-particles:
+      particle: CLOUD
+      speed: 0.0
+      offset: 0.0
+      amount: 10
+    arrow-potion-effects:
+      POISON:
+        duration: 10.0
+        amplifier: 3
+    gem-sockets:
+    - Tấn Công
+    ability:
+      ability1:
+        type: STARFALL
+        mode: ARROW_LAND
+        damage: 80.0
+        mana: 14.0
+        cooldown: 3
+CUNGTHIENVU2:
+  base:
+    revision-id: 2
+    material: BOW
+    name: <#b6f5fb>&lC<#98edfb>&lu<#7ae5fb>&ln<#5bddfb>&lg <#3dd5fb>&lT<#1fcdfb>&lh<#4bcafb>&li<#78c6fb>&lê<#a4c3fc>&ln
+      <#d1bffc>&lV<#fdbcfc>&lũ II
+    lore:
+    - '&7 ✦ Hiệu ứng mũi tên &fThiên Vũ'
+    - '&7 ✦ Hiệu ứng thuốc &2Độc Tố V &7[10s]'
+    - ''
+    - '&f 『&eBẤT PHÁ&f』'
+    enchants:
+      unbreaking: 10.0
+    hide-enchants: true
+    unbreakable: true
+    tier: ELITE
+    attack-damage: 70.0
+    critical-strike-chance: 30.0
+    critical-strike-power: 80.0
+    skill-critical-strike-chance: 20.0
+    skill-critical-strike-power: 50.0
+    arrow-velocity: 1.5
+    arrow-particles:
+      particle: CLOUD
+      speed: 0.0
+      offset: 0.0
+      amount: 10
+    arrow-potion-effects:
+      POISON:
+        duration: 10.0
+        amplifier: 5
+    gem-sockets:
+    - Tấn Công
+    ability:
+      ability1:
+        type: STARFALL
+        mode: ARROW_LAND
+        damage: 95.0
+        mana: 18.0
+CUNGTHIENVU3:
+  base:
+    revision-id: 2
+    material: BOW
+    name: <#b6f5fb>&lC<#98edfb>&lu<#7ae5fb>&ln<#5bddfb>&lg <#3dd5fb>&lT<#1fcdfb>&lh<#4bcafb>&li<#78c6fb>&lê<#a4c3fc>&ln
+      <#d1bffc>&lV<#fdbcfc>&lũ III
+    lore:
+    - '&7 ✦ Hiệu ứng mũi tên &fThiên Vũ'
+    - '&7 ✦ Hiệu ứng thuốc &2Độc Tố V &7[10s]'
+    - '&7 ✦ Hiệu ứng thuốc &2Suy Yếu II &7[10s]'
+    - ''
+    - '&f 『&eBẤT PHÁ&f』'
+    enchants:
+      infinity: 1
+    unbreakable: true
+    tier: ULTIMATE
+    attack-damage: 90.0
+    critical-strike-chance: 35.0
+    critical-strike-power: 80.0
+    skill-critical-strike-chance: 25.0
+    skill-critical-strike-power: 50.0
+    arrow-velocity: 1.5
+    arrow-particles:
+      particle: CLOUD
+      speed: 0.0
+      offset: 0.0
+      amount: 10
+    arrow-potion-effects:
+      POISON:
+        duration: 10.0
+        amplifier: 5
+      WEAKNESS:
+        duration: 10.0
+        amplifier: 2
+    gem-sockets:
+    - Tấn Công
+    ability:
+      ability1:
+        type: STARFALL
+        mode: ARROW_LAND
+        damage: 120.0
+        mana: 24.0

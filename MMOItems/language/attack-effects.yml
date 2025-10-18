@@ -1,0 +1,15 @@
+staff-spirit:
+  nether-spirit: '&3 &7■ Tinh linh Địa ngục'
+  void-spirit: '&3 &7■ Tinh linh Hư vô'
+  mana-spirit: '&3 &7■ Tinh linh Mana'
+  lightning-spirit: '&3 &7■ Tinh linh Quang ảnh'
+  xray-spirit: '&3 &7■ Tinh linh X-ray'
+  thunder-spirit: '&3 &7■ Tinh linh Lôi điện'
+  sunfire-spirit: '&3 &7■ Tinh linh Diễm hoả'
+lute-attack:
+  wave: '&3 &7■ Giai điệu sóng'
+  circular: '&3 &7■ Giai điệu tròn'
+  slash: '&3 &7■ Giai điệu tròn'
+  simple: '&3 &7■ Giai điệu cơ bản'
+  brute: '&3 &7■ Giai điệu dồn dập'
+  heavy: '&3 &7■ Giai điệu nặng'

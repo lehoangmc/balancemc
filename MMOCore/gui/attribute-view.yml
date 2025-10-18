@@ -1,0 +1,84 @@
+
+# GUI display name
+name: Nâng Điểm Thuộc Tính
+
+
+# Number of slots in your inventory. Must be
+# between 9 and 54 and must be a multiple of 9.
+slots: 27
+
+items:
+    reallocate:
+        slots: [26]
+        function: reallocation
+        item: CAULDRON
+        name: '&aTẩy Tủy'
+        lore:
+            - ''
+            - 'Đã nâng tổng cộng &6{total}&7 điểm thuộc tính.'
+            - '&7Chuột phải để thiết lập lại toàn bộ điểm.'
+            - ''
+            - '&eYêu cầu 1 điểm Tẩy Tủy.'
+            - '&e◆ Điểm Tẩy Tủy: &6{points}'
+    str:
+        slots: [10]
+        function: attribute_strength
+        name: '&a{name}'
+        item: wooden_sword
+        lore: # {buffs} returns amount of buffs
+            - ''
+            - '&7Đã nâng: &6{spent}&7/&6{max}'
+            - ''
+            - '&8Khi nâng cấp:'
+            - '&7  +{buff_weapon_damage}% Weapon Damage (&a+{total_weapon_damage}%&7)'
+            - '&7  +{buff_physical_damage}% Sức Mạnh (&a+{total_physical_damage}%&7)'
+            - ''
+            - '&eClick để nâng thuộc tính.'
+            - '&e◆ Điểm còn lại: {attribute_points}'
+    agi:
+        slots: [12]
+        function: attribute_agility
+        name: '&a{name}'
+        item: LEATHER_BOOTS
+        hide-flags: true
+        lore:
+            - ''
+            - '&7Đã nâng: &6{spent}&7/&6{max}'
+            - ''
+            - '&8Khi nâng cấp:'
+            - '&7  +{buff_dodge_rating}% Physical Damage (&a+{total_dodge_rating}%&7)'
+            - '&7  +{buff_attack_speed}% Attack Speed (&a+{total_attack_speed}%&7)'
+            - ''
+            - '&eClick để nâng thuộc tính.'
+            - '&e◆ Điểm còn lại: {attribute_points}'
+    vita:
+        slots: [14]
+        function: attribute_vitality
+        name: '&a{name}'
+        item: leather_chestplate
+        lore:
+            - ''
+            - '&7Đã nâng: &6{spent}&7/&6{max}'
+            - ''
+            - '&8Khi nâng cấp:'
+            - '&7  +{buff_max_health}% Max Health (&a+{total_max_health}%&7)'
+            - '&7  +{buff_health_regeneration}% Heal Regeneration (&a+{total_health_regeneration}%&7)'
+            - ''
+            - '&eClick để nâng thuộc tính.'
+            - '&e◆ Điểm còn lại: {attribute_points}'
+    ene:
+        slots: [16]
+        function: attribute_energy
+        name: '&a{name}'
+        item: magma_cream
+        lore:
+            - ''
+            - '&7Đã nâng: &6{spent}&7/&6{max}'
+            - ''
+            - '&8Khi nâng cấp:'
+            - '&7  +{buff_skill_damage}% Magic Damage (&a+{total_skill_damage}%&7)'
+            - '&7  +{buff_cooldown_reduction}% Cooldown Reduction (&a+{total_cooldown_reduction}%&7)'
+            - '&7  +{buff_max_mana}% Max Mana (&a+{total_max_mana}%&7)'
+            - ''
+            - '&eClick để nâng thuộc tính.'
+            - '&e◆ Điểm còn lại: {attribute_points}'

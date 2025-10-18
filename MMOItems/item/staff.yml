@@ -1,0 +1,21 @@
+Fire_Staff:
+  base:
+    material: BLAZE_ROD
+    name: '&cGậy Phép Lửa'
+    lore:
+    - '&6Một cây gậy ma thuật tỏa nhiệt'
+    - '&7Chuột phải để phóng cầu lửa'
+    unbreakable: true
+    tier: RARE
+    damage: 15
+    attack-speed: 1.2
+    critical-strike-chance: 10
+    critical-strike-power: 150
+    ability:
+      ability1:
+        type: FIREBALL
+        mode: RIGHT_CLICK
+        cooldown: 5
+        damage: 20
+        ignite: 3
+    custom-model-data: 1
